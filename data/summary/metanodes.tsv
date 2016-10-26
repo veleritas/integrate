@@ -1,12 +1,4 @@
 metanode	abbreviation	metaedges	nodes	unconnected_nodes
-Anatomy	A	4	402	2
-Biological Process	BP	1	11381	0
-Cellular Component	CC	1	1391	0
-Compound	C	8	1552	14
-Disease	D	8	137	1
-Gene	G	16	20945	1800
-Molecular Function	MF	1	2884	0
-Pathway	PW	1	1822	0
-Pharmacologic Class	PC	1	345	0
-Side Effect	SE	1	5734	33
-Symptom	S	1	438	23
+Compound	C	2	1552	159
+Disease	D	2	137	3
+Gene	G	2	20945	14831
