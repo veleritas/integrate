@@ -93,3 +93,5 @@ target/
 vignettes/*.html
 vignettes/*.pdf
 
+
+neo4j/
