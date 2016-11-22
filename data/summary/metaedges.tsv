@@ -1,4 +1,4 @@
 metaedge	abbreviation	edges	source_nodes	target_nodes	unbiased
 Compound - binds - Gene	CbG	11571	1389	1689	0
-Compound - treats - Disease	CtD	615	338	73	0
+Compound - treats - Disease	CtD	592	323	73	0
 Disease - associates - Gene	DaG	12623	134	5392	1284

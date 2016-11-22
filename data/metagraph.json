@@ -25,11 +25,11 @@
     ]
   ],
   "kind_to_abbrev": {
-    "Compound": "C",
-    "treats": "t",
+    "associates": "a",
+    "binds": "b",
     "Disease": "D",
     "Gene": "G",
-    "binds": "b",
-    "associates": "a"
+    "Compound": "C",
+    "treats": "t"
   }
 }
