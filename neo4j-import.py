@@ -1,3 +1,4 @@
+import argparse
 import re
 import os
 import tarfile
@@ -41,13 +42,11 @@ def create_instance(version, db_id, port, overwrite=False):
     filename = '{}-unix.tar.gz'.format(version)
     path = os.path.join('neo4j', filename)
     if not os.path.exists(path):
-        print("Downloading neo4j {}".format(version))
         url = 'http://neo4j.com/artifact.php?name={}'.format(filename)
         urllib.request.urlretrieve(url, path)
 
     # Extract to file
     tar_file = tarfile.open(path, 'r:gz')
-    print("Unpacking neo4j")
     tar_file.extractall('neo4j')
     directory = os.path.join('neo4j', '{}_{}'.format(version, db_id))
     if os.path.isdir(directory) and overwrite:
@@ -99,7 +98,7 @@ def hetnet_to_neo4j(path, neo4j_dir, port, database_path='data/graph.db'):
             bolt_port = port, bolt = True
         )
 
-        hetio.neo4j.export_neo4j(graph, uri, 1000, 250, show_progress=True)
+        hetio.neo4j.export_neo4j(graph, uri, 200, 1, show_progress=True)
     except Exception as e:
         error = e
         print(neo4j_dir, e)
@@ -125,6 +124,10 @@ def remove_logs(database_dir):
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Load hetnet into Neo4j")
+    parser.add_argument('workers', type=int, choices=range(1, 7))
+    args = parser.parse_args()
+
     # read cross validation index
     with open("../crossval_idx.txt", "r") as fin:
         crossval_idx = int(fin.read().strip())
@@ -143,7 +146,7 @@ def main():
 
 
     # Initiate Pool
-    pool = concurrent.futures.ProcessPoolExecutor(max_workers = 2)
+    pool = concurrent.futures.ProcessPoolExecutor(max_workers = args.workers)
     port_to_future = collections.OrderedDict()
 
 
