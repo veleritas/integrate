@@ -5,6 +5,8 @@ import subprocess
 import sys
 import json
 
+from time import sleep
+
 def get_instances(directory):
     """Return neo4j instances in a directory"""
     instances = list()
@@ -12,25 +14,49 @@ def get_instances(directory):
         binary = os.path.join(directory, filename, 'bin', 'neo4j')
         if not os.path.exists(binary):
             continue
+
+
+        # check to see which version of neo4j this is
+        # WARNING:
+        # assumes is version 3 if neo4j.conf exists
+        # assumes is version 2 otherwise
+        # this may obviously change if neo4j changes!
+
+        config_path = os.path.join(directory, filename, 'conf', 'neo4j.conf')
+
+        if os.path.isfile(config_path):
+            neo4j_version = 3
+        else:
+            neo4j_version = 2
+            config_path = os.path.join(directory, filename, 'conf', 'neo4j-server.properties')
+
         instance = {
             'name': filename.split('_', 1)[1],
             'binary': binary,
             'path': os.path.join(directory, filename),
             'directory': filename,
+            'version': neo4j_version
         }
-        config_path = os.path.join(directory, filename, 'conf', 'neo4j-server.properties')
-        instance['port'] = get_port(config_path)
+
+        instance['port'] = get_port(config_path, neo4j_version)
         instances.append(instance)
 
     return instances
 
-def get_port(config_path):
+def get_port(config_path, neo4j_version):
     """
     Find the webserver port specified in a neo4j configuration properties file.
     """
     with open(config_path) as read_file:
         text = read_file.read()
-    match = re.search(r'^org.neo4j.server.webserver.port=([0-9]+)', text, re.MULTILINE)
+
+    if neo4j_version == 3:
+        search_text = r'^dbms.connector.bolt.listen_address=:([0-9]+)'
+    else:
+        search_text = r'^org.neo4j.server.webserver.port=([0-9]+)'
+
+    match = re.search(search_text, text, re.MULTILINE)
+
     port = int(match.group(1))
     return port
 
@@ -40,7 +66,13 @@ def is_running(instance):
     """
     process = subprocess.run([instance['binary'], 'status'], stdout=subprocess.PIPE)
     stdout = str(process.stdout, sys.stdout.encoding).rstrip()
-    match = re.match(r'Neo4j Server is running', stdout)
+
+    if instance['version'] == 3:
+        search_text = r'Neo4j is running at'
+    else:
+        search_text = r'Neo4j Server is running'
+
+    match = re.match(search_text, stdout)
     return stdout if match else False
 
 def start_server(instance):
@@ -52,9 +84,18 @@ def start_server(instance):
     running = is_running(instance)
     if running:
         return running
+
     process = subprocess.run([instance['binary'], 'start'], stdout=subprocess.PIPE)
     stdout = str(process.stdout, sys.stdout.encoding)
-    match = re.search(r'process \[([0-9]+)\]', stdout)
+
+    sleep(5)
+
+    if instance['version'] == 3:
+        search_text = r'\(pid ([0-9]+)\)'
+    else:
+        search_text = r'process \[([0-9]+)\]'
+
+    match = re.search(search_text, stdout)
     instance['pid'] = int(match.group(1))
     return stdout
 
