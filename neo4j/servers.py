@@ -118,6 +118,8 @@ def start_all(instances):
         out = start_server(instance)
         print(out)
 
+    sleep(30)
+
 def stop_all(instances):
     for instance in instances:
         out = stop_server(instance)
