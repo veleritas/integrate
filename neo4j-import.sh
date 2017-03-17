@@ -10,7 +10,7 @@ for suffix in "${suffixes[@]}"; do
 
     CSV_NAME="data/import_csvs/hetnet$suffix"
 
-    REPORT_NAME="network{$suffix}_import.report"
+    REPORT_NAME="network${suffix}_import.report"
 
     ./$BIN_LOC import --nodes "${CSV_NAME}_nodes.csv" --relationships "${CSV_NAME}_edges.csv" --report-file="$REPORT_NAME"
 
