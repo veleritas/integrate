@@ -117,6 +117,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 269	Facioscapulohumeral dystrophy	Not yet assessed	Candidate gene tested in	FSHD region gene 1	3954	FRG1	2483
 269	Facioscapulohumeral dystrophy	Assessed	Disease-causing germline mutation(s) in	structural maintenance of chromosomes flexible hinge domain containing 1	29090	SMCHD1	23347
 269	Facioscapulohumeral dystrophy	Assessed	Modifying germline mutation in	structural maintenance of chromosomes flexible hinge domain containing 1	29090	SMCHD1	23347
+2250	Hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome	Assessed	Disease-causing germline mutation(s) in	structural maintenance of chromosomes flexible hinge domain containing 1	29090	SMCHD1	23347
 269	Facioscapulohumeral dystrophy	Not yet assessed	Candidate gene tested in	double homeobox 4	50800	DUX4	100288687
 480	Kearns-Sayre syndrome	Not yet assessed	Candidate gene tested in	mitochondrially encoded ATP synthase 8	7415	MT-ATP8	4509
 254913	Isolated ATP synthase deficiency	Assessed	Disease-causing germline mutation(s) in	mitochondrially encoded ATP synthase 8	7415	MT-ATP8	4509
@@ -221,7 +222,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 275864	Behavioral variant of frontotemporal dementia	Not yet assessed	Major susceptibility factor in	valosin containing protein	12666	VCP	7415
 329475	Spastic paraplegia-Paget disease of bone syndrome	Assessed	Disease-causing germline mutation(s) in	valosin containing protein	12666	VCP	7415
 329478	Adult-onset distal myopathy due to VCP mutation	Assessed	Disease-causing germline mutation(s) in	valosin containing protein	12666	VCP	7415
-435387	Autosomal dominant Charcot-Marie-Tooth disease type 2 due to VCP mutation	Assessed	Disease-causing germline mutation(s) in	valosin containing protein	12666	VCP	7415
+435387	Autosomal dominant Charcot-Marie-Tooth disease type 2Y	Assessed	Disease-causing germline mutation(s) in	valosin containing protein	12666	VCP	7415
 52430	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia	Assessed	Disease-causing germline mutation(s) in	valosin containing protein	12666	VCP	7415
 100069	Semantic dementia	Not yet assessed	Major susceptibility factor in	valosin containing protein	12666	VCP	7415
 100070	Progressive non-fluent aphasia	Not yet assessed	Major susceptibility factor in	valosin containing protein	12666	VCP	7415
@@ -253,6 +254,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 803	Amyotrophic lateral sclerosis	Assessed	Disease-causing germline mutation(s) in	paraoxonase 2	9205	PON2	5445
 803	Amyotrophic lateral sclerosis	Assessed	Disease-causing germline mutation(s) in	paraoxonase 3	9206	PON3	5446
 803	Amyotrophic lateral sclerosis	Assessed	Major susceptibility factor in	NIMA related kinase 1	7744	NEK1	4750
+2751	Orofaciodigital syndrome type 2	Assessed	Disease-causing germline mutation(s) in	NIMA related kinase 1	7744	NEK1	4750
 93269	Short rib-polydactyly syndrome, Majewski type	Assessed	Disease-causing germline mutation(s) in	NIMA related kinase 1	7744	NEK1	4750
 803	Amyotrophic lateral sclerosis	Assessed	Disease-causing germline mutation(s) in	sequestosome 1	11280	SQSTM1	8878
 275872	Frontotemporal dementia with motor neuron disease	Assessed	Disease-causing germline mutation(s) in	sequestosome 1	11280	SQSTM1	8878
@@ -318,8 +320,9 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 567	22q11.2 deletion syndrome	Assessed	Role in the phenotype of	armadillo repeat gene deleted in velocardiofacial syndrome	728	ARVCF	421
 567	22q11.2 deletion syndrome	Assessed	Role in the phenotype of	glycoprotein Ib platelet beta subunit	4440	GP1BB	2812
 274	Bernard-Soulier syndrome	Assessed	Disease-causing germline mutation(s) in	glycoprotein Ib platelet beta subunit	4440	GP1BB	2812
+140957	Autosomal dominant macrothrombocytopenia	Assessed	Disease-causing germline mutation(s) in	glycoprotein Ib platelet beta subunit	4440	GP1BB	2812
 853	Fetal and neonatal alloimmune thrombocytopenia	Not yet assessed	Candidate gene tested in	glycoprotein Ib platelet beta subunit	4440	GP1BB	2812
-567	22q11.2 deletion syndrome	Assessed	Role in the phenotype of	ubiquitin fusion degradation 1 like (yeast)	12520	UFD1	7353
+567	22q11.2 deletion syndrome	Assessed	Role in the phenotype of	ubiquitin recognition factor in ER associated degradation 1	12520	UFD1	7353
 567	22q11.2 deletion syndrome	Not yet assessed	Role in the phenotype of	catechol-O-methyltransferase	2228	COMT	1312
 240863	Cisplatin toxicity	Assessed	Biomarker tested in	catechol-O-methyltransferase	2228	COMT	1312
 284121	Toxicity or absent response to clozapine	Assessed	Biomarker tested in	catechol-O-methyltransferase	2228	COMT	1312
@@ -414,6 +417,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 904	Williams syndrome	Assessed	Role in the phenotype of	elastin	3327	ELN	2006
 3193	Supravalvular aortic stenosis	Assessed	Disease-causing germline mutation(s) (loss of function) in	elastin	3327	ELN	2006
 90348	Autosomal dominant cutis laxa	Assessed	Disease-causing germline mutation(s) in	elastin	3327	ELN	2006
+91387	Familial thoracic aortic aneurysm and aortic dissection	Not yet assessed	Candidate gene tested in	elastin	3327	ELN	2006
 904	Williams syndrome	Assessed	Role in the phenotype of	general transcription factor IIi	4659	GTF2I	2969
 904	Williams syndrome	Assessed	Role in the phenotype of	GTF2I repeat domain containing 1	4661	GTF2IRD1	9569
 904	Williams syndrome	Assessed	Role in the phenotype of	LIM domain kinase 1	6613	LIMK1	3984
@@ -556,6 +560,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 251863	Desmoplastic/nodular medulloblastoma	Assessed	Major susceptibility factor in	SUFU negative regulator of hedgehog signaling	16466	SUFU	51684
 251858	Medulloblastoma with extensive nodularity	Assessed	Major susceptibility factor in	SUFU negative regulator of hedgehog signaling	16466	SUFU	51684
 263662	Familial multiple meningioma	Assessed	Major susceptibility factor in	SUFU negative regulator of hedgehog signaling	16466	SUFU	51684
+280200	Microform holoprosencephaly	Not yet assessed	Candidate gene tested in	SUFU negative regulator of hedgehog signaling	16466	SUFU	51684
 648	Noonan syndrome	Assessed	Disease-causing germline mutation(s) in	protein tyrosine phosphatase, non-receptor type 11	9644	PTPN11	5781
 500	Noonan syndrome with multiple lentigines	Assessed	Disease-causing germline mutation(s) in	protein tyrosine phosphatase, non-receptor type 11	9644	PTPN11	5781
 2499	Metachondromatosis	Assessed	Disease-causing germline mutation(s) (loss of function) in	protein tyrosine phosphatase, non-receptor type 11	9644	PTPN11	5781
@@ -575,6 +580,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 2612	Linear nevus sebaceus syndrome	Assessed	Disease-causing somatic mutation(s) in	KRAS proto-oncogene, GTPase	6407	KRAS	3845
 146	Differentiated thyroid carcinoma	Assessed	Disease-causing somatic mutation(s) in	KRAS proto-oncogene, GTPase	6407	KRAS	3845
 1340	Cardiofaciocutaneous syndrome	Assessed	Disease-causing germline mutation(s) (gain of function) in	KRAS proto-oncogene, GTPase	6407	KRAS	3845
+2396	Encephalocraniocutaneous lipomatosis	Not yet assessed	Candidate gene tested in	KRAS proto-oncogene, GTPase	6407	KRAS	3845
 251612	Pilocytic astrocytoma	Assessed	Disease-causing somatic mutation(s) in	KRAS proto-oncogene, GTPase	6407	KRAS	3845
 268114	RAS-associated autoimmune leukoproliferative disease	Assessed	Disease-causing somatic mutation(s) in	KRAS proto-oncogene, GTPase	6407	KRAS	3845
 3339	Toriello-Lacassie-Droste syndrome	Assessed	Disease-causing somatic mutation(s) in	KRAS proto-oncogene, GTPase	6407	KRAS	3845
@@ -604,6 +610,8 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 648	Noonan syndrome	Assessed	Disease-causing germline mutation(s) in	alpha-2-macroglobulin like 1	23336	A2ML1	144568
 648	Noonan syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	RAS p21 protein activator 2	9872	RASA2	5922
 648	Noonan syndrome	Assessed	Disease-causing germline mutation(s) in	SOS Ras/Rho guanine nucleotide exchange factor 2	11188	SOS2	6655
+648	Noonan syndrome	Not yet assessed	Candidate gene tested in	related RAS viral (r-ras) oncogene homolog	10447	RRAS	6237
+86834	Juvenile myelomonocytic leukemia	Not yet assessed	Candidate gene tested in	related RAS viral (r-ras) oncogene homolog	10447	RRAS	6237
 281	Monosomy 5p	Not yet assessed	Candidate gene tested in	semaphorin 5A	10736	SEMA5A	9037
 281	Monosomy 5p	Assessed	Role in the phenotype of	catenin delta 2	2516	CTNND2	1501
 752	46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency	Assessed	Disease-causing germline mutation(s) (loss of function) in	hydroxysteroid 17-beta dehydrogenase 3	5212	HSD17B3	3293
@@ -620,6 +628,8 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 2807	Papilloma of choroid plexus	Assessed	Disease-causing germline mutation(s) in	tumor protein p53	11998	TP53	7157
 210159	Adult hepatocellular carcinoma	Not yet assessed	Candidate gene tested in	tumor protein p53	11998	TP53	7157
 145	Hereditary breast and ovarian cancer syndrome	Not yet assessed	Candidate gene tested in	tumor protein p53	11998	TP53	7157
+668	Osteosarcoma	Assessed	Disease-causing germline mutation(s) in	tumor protein p53	11998	TP53	7157
+668	Osteosarcoma	Assessed	Disease-causing somatic mutation(s) in	tumor protein p53	11998	TP53	7157
 1501	Adrenocortical carcinoma	Assessed	Major susceptibility factor in	tumor protein p53	11998	TP53	7157
 1333	Familial pancreatic carcinoma	Assessed	Major susceptibility factor in	tumor protein p53	11998	TP53	7157
 3318	Essential thrombocythemia	Assessed	Biomarker tested in	tumor protein p53	11998	TP53	7157
@@ -708,6 +718,8 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 893	WAGR syndrome	Assessed	Role in the phenotype of	Wilms tumor 1	12796	WT1	7490
 654	Nephroblastoma	Assessed	Disease-causing somatic mutation(s) in	Wilms tumor 1	12796	WT1	7490
 654	Nephroblastoma	Assessed	Major susceptibility factor in	Wilms tumor 1	12796	WT1	7490
+242	46,XY complete gonadal dysgenesis	Not yet assessed	Candidate gene tested in	Wilms tumor 1	12796	WT1	7490
+251510	46,XY partial gonadal dysgenesis	Not yet assessed	Candidate gene tested in	Wilms tumor 1	12796	WT1	7490
 3097	Meacham syndrome	Assessed	Disease-causing germline mutation(s) in	Wilms tumor 1	12796	WT1	7490
 220	Denys-Drash syndrome	Assessed	Disease-causing germline mutation(s) in	Wilms tumor 1	12796	WT1	7490
 347	Frasier syndrome	Assessed	Disease-causing germline mutation(s) in	Wilms tumor 1	12796	WT1	7490
@@ -837,6 +849,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 562	McCune-Albright syndrome	Assessed	Disease-causing somatic mutation(s) in	GNAS complex locus	4392	GNAS	2778
 189427	Cushing syndrome due to macronodular adrenal hyperplasia	Assessed	Disease-causing somatic mutation(s) in	GNAS complex locus	4392	GNAS	2778
 2762	Progressive osseous heteroplasia	Assessed	Disease-causing germline mutation(s) (loss of function) in	GNAS complex locus	4392	GNAS	2778
+57782	Mazabraud syndrome	Not yet assessed	Candidate gene tested in	GNAS complex locus	4392	GNAS	2778
 93276	Polyostotic fibrous dysplasia	Assessed	Disease-causing somatic mutation(s) in	GNAS complex locus	4392	GNAS	2778
 93277	Monostotic fibrous dysplasia	Assessed	Disease-causing somatic mutation(s) in	GNAS complex locus	4392	GNAS	2778
 79445	Pseudopseudohypoparathyroidism	Assessed	Disease-causing germline mutation(s) (loss of function) in	GNAS complex locus	4392	GNAS	2778
@@ -1007,6 +1020,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 171439	Childhood-onset nemaline myopathy	Assessed	Disease-causing germline mutation(s) in	kelch repeat and BTB domain containing 13	37227	KBTBD13	390594
 171439	Childhood-onset nemaline myopathy	Assessed	Disease-causing germline mutation(s) (loss of function) in	myopalladin	23246	MYPN	84665
 154	Familial isolated dilated cardiomyopathy	Assessed	Disease-causing germline mutation(s) in	myopalladin	23246	MYPN	84665
+171881	Cap myopathy	Assessed	Disease-causing germline mutation(s) in	myopalladin	23246	MYPN	84665
 75249	Familial isolated restrictive cardiomyopathy	Assessed	Disease-causing germline mutation(s) in	myopalladin	23246	MYPN	84665
 171445	Muscle filaminopathy	Assessed	Disease-causing germline mutation(s) in	filamin C	3756	FLNC	2318
 63273	Distal myopathy with posterior leg and anterior hand involvement	Assessed	Disease-causing germline mutation(s) in	filamin C	3756	FLNC	2318
@@ -1026,12 +1040,22 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 308	Unverricht-Lundborg disease	Assessed	Disease-causing germline mutation(s) in	prickle planar cell polarity protein 1	17019	PRICKLE1	144165
 199	Cornelia de Lange syndrome	Assessed	Disease-causing germline mutation(s) in	structural maintenance of chromosomes 1A	11111	SMC1A	8243
 319182	Wiedemann-Steiner syndrome	Assessed	Disease-causing germline mutation(s) in	structural maintenance of chromosomes 1A	11111	SMC1A	8243
+199	Cornelia de Lange syndrome	Not yet assessed	Candidate gene tested in	lysine methyltransferase 2A	7132	KMT2A	4297
+319182	Wiedemann-Steiner syndrome	Assessed	Disease-causing germline mutation(s) in	lysine methyltransferase 2A	7132	KMT2A	4297
+402017	Acute myeloid leukemia with t(9;11)(p22;q23)	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
+98837	Acute biphenotypic leukemia	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
+98835	Acute undifferentiated leukemia	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
+98836	Bilineal acute leukemia	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
+98831	Acute myeloid leukemia with 11q23 abnormalities	Assessed	Role in the phenotype of	lysine methyltransferase 2A	7132	KMT2A	4297
+99860	Precursor B-cell acute lymphoblastic leukemia	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
 199	Cornelia de Lange syndrome	Assessed	Disease-causing germline mutation(s) in	NIPBL, cohesin loading factor	28862	NIPBL	25836
 329802	5p13 microduplication syndrome	Assessed	Role in the phenotype of	NIPBL, cohesin loading factor	28862	NIPBL	25836
 199	Cornelia de Lange syndrome	Assessed	Disease-causing germline mutation(s) in	structural maintenance of chromosomes 3	2468	SMC3	9126
 199	Cornelia de Lange syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	histone deacetylase 8	13315	HDAC8	55869
 3459	Wilson-Turner syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	histone deacetylase 8	13315	HDAC8	55869
 199	Cornelia de Lange syndrome	Assessed	Disease-causing germline mutation(s) in	RAD21 cohesin complex component	9811	RAD21	5885
+199	Cornelia de Lange syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	SET domain containing 5	25566	SETD5	55209
+404440	Intellectual disability-facial dysmorphism syndrome due to SETD5 haploinsufficiency	Assessed	Disease-causing germline mutation(s) (loss of function) in	SET domain containing 5	25566	SETD5	55209
 930	Idiopathic achalasia	Assessed	Major susceptibility factor in	major histocompatibility complex, class II, DQ alpha 1	4942	HLA-DQA1	3117
 391490	Adult-onset myasthenia gravis	Assessed	Major susceptibility factor in	major histocompatibility complex, class II, DQ alpha 1	4942	HLA-DQA1	3117
 930	Idiopathic achalasia	Assessed	Major susceptibility factor in	major histocompatibility complex, class II, DQ beta 1	4944	HLA-DQB1	3119
@@ -1059,7 +1083,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 218	Darier disease	Assessed	Disease-causing germline mutation(s) in	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2	812	ATP2A2	488
 79151	Acrokeratosis verruciformis of Hopf	Assessed	Disease-causing germline mutation(s) (loss of function) in	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2	812	ATP2A2	488
 168796	Heart-hand syndrome, Slovenian type	Assessed	Disease-causing germline mutation(s) in	lamin A/C	6636	LMNA	4000
-137871	Laminopathy type Decaudain-Vigouroux	Assessed	Disease-causing germline mutation(s) in	lamin A/C	6636	LMNA	4000
 1662	Restrictive dermopathy	Assessed	Disease-causing germline mutation(s) in	lamin A/C	6636	LMNA	4000
 157973	Congenital muscular dystrophy due to LMNA mutation	Assessed	Disease-causing germline mutation(s) in	lamin A/C	6636	LMNA	4000
 2348	Familial partial lipodystrophy, Dunnigan type	Assessed	Disease-causing germline mutation(s) in	lamin A/C	6636	LMNA	4000
@@ -1096,6 +1119,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 1465	Coffin-Siris syndrome	Assessed	Disease-causing germline mutation(s) in	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	11109	SMARCE1	6605
 263662	Familial multiple meningioma	Assessed	Disease-causing germline mutation(s) (loss of function) in	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	11109	SMARCE1	6605
 1465	Coffin-Siris syndrome	Assessed	Disease-causing germline mutation(s) in	SRY-box 11	11191	SOX11	6664
+1465	Coffin-Siris syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	AT-rich interaction domain 2	18037	ARID2	196528
 168953	Myeloid neoplasm associated with FGFR1 rearrangement	Assessed	Part of a fusion gene in	fibroblast growth factor receptor 1	3688	FGFR1	2260
 2117	Hartsfield-Bixler-Demyer syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	fibroblast growth factor receptor 1	3688	FGFR1	2260
 2396	Encephalocraniocutaneous lipomatosis	Assessed	Disease-causing somatic mutation(s) in	fibroblast growth factor receptor 1	3688	FGFR1	2260
@@ -1105,7 +1129,9 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 2645	Osteoglophonic dwarfism	Assessed	Disease-causing germline mutation(s) (gain of function) in	fibroblast growth factor receptor 1	3688	FGFR1	2260
 3366	Isolated trigonocephaly	Assessed	Disease-causing germline mutation(s) in	fibroblast growth factor receptor 1	3688	FGFR1	2260
 3157	Septo-optic dysplasia spectrum	Assessed	Disease-causing germline mutation(s) in	fibroblast growth factor receptor 1	3688	FGFR1	2260
+280200	Microform holoprosencephaly	Not yet assessed	Candidate gene tested in	fibroblast growth factor receptor 1	3688	FGFR1	2260
 478	Kallmann syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	fibroblast growth factor receptor 1	3688	FGFR1	2260
+220386	Semilobar holoprosencephaly	Assessed	Disease-causing germline mutation(s) in	fibroblast growth factor receptor 1	3688	FGFR1	2260
 314950	Primary hypereosinophilic syndrome	Assessed	Part of a fusion gene in	fibroblast growth factor receptor 1	3688	FGFR1	2260
 432	Normosmic congenital hypogonadotropic hypogonadism	Assessed	Disease-causing germline mutation(s) (loss of function) in	fibroblast growth factor receptor 1	3688	FGFR1	2260
 93258	Pfeiffer syndrome type 1	Assessed	Disease-causing germline mutation(s) in	fibroblast growth factor receptor 1	3688	FGFR1	2260
@@ -1156,6 +1182,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 255241	Leigh syndrome with leukodystrophy	Assessed	Disease-causing germline mutation(s) in	NADH:ubiquinone oxidoreductase complex assembly factor 5	15899	NDUFAF5	79133
 2609	Isolated complex I deficiency	Assessed	Disease-causing germline mutation(s) in	NADH:ubiquinone oxidoreductase subunit A11	20371	NDUFA11	126328
 2609	Isolated complex I deficiency	Assessed	Disease-causing germline mutation(s) in	NADH:ubiquinone oxidoreductase complex assembly factor 3	29918	NDUFAF3	25915
+70474	Leigh syndrome with cardiomyopathy	Assessed	Disease-causing germline mutation(s) in	NADH:ubiquinone oxidoreductase complex assembly factor 3	29918	NDUFAF3	25915
 2609	Isolated complex I deficiency	Assessed	Disease-causing germline mutation(s) in	nucleotide binding protein like	20278	NUBPL	80224
 2609	Isolated complex I deficiency	Assessed	Disease-causing germline mutation(s) in	FAD dependent oxidoreductase domain containing 1	26927	FOXRED1	55572
 255241	Leigh syndrome with leukodystrophy	Assessed	Disease-causing germline mutation(s) in	FAD dependent oxidoreductase domain containing 1	26927	FOXRED1	55572
@@ -1274,6 +1301,13 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 1713	17p11.2 microduplication syndrome	Not yet assessed	Role in the phenotype of	retinoic acid induced 1	9834	RAI1	10743
 477817	PMP22-RAI1 contiguous gene duplication syndrome	Assessed	Role in the phenotype of	retinoic acid induced 1	9834	RAI1	10743
 819	Smith-Magenis syndrome	Not yet assessed	Candidate gene tested in	FLII, actin remodeling protein	3750	FLII	2314
+819	Smith-Magenis syndrome	Not yet assessed	Candidate gene tested in	IQ motif and Sec7 domain 2	29059	IQSEC2	23096
+777	X-linked non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	IQ motif and Sec7 domain 2	29059	IQSEC2	23096
+217377	Microduplication Xp11.22-p11.23 syndrome	Assessed	Role in the phenotype of	IQ motif and Sec7 domain 2	29059	IQSEC2	23096
+397933	Severe intellectual disability-progressive postnatal microcephaly-midline stereotypic hand movements syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	IQ motif and Sec7 domain 2	29059	IQSEC2	23096
+819	Smith-Magenis syndrome	Not yet assessed	Candidate gene tested in	DEAF1, transcription factor	14677	DEAF1	10522
+178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	DEAF1, transcription factor	14677	DEAF1	10522
+468620	Intellectual disability-epilepsy-extrapyramidal syndrome	Assessed	Disease-causing germline mutation(s) in	DEAF1, transcription factor	14677	DEAF1	10522
 168615	Hereditary persistence of alpha-fetoprotein	Assessed	Disease-causing germline mutation(s) in	alpha fetoprotein	317	AFP	174
 168612	Congenital deficiency in alpha-fetoprotein	Assessed	Disease-causing germline mutation(s) in	alpha fetoprotein	317	AFP	174
 1452	Cleidocranial dysplasia	Assessed	Disease-causing germline mutation(s) in	runt related transcription factor 2	10472	RUNX2	860
@@ -1333,6 +1367,8 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 124	Blackfan-Diamond anemia	Assessed	Disease-causing germline mutation(s) (loss of function) in	ribosomal protein S29	10419	RPS29	6235
 124	Blackfan-Diamond anemia	Not yet assessed	Disease-causing germline mutation(s) (loss of function) in	TSR2, ribosome maturation factor	25455	TSR2	90121
 124	Blackfan-Diamond anemia	Not yet assessed	Disease-causing germline mutation(s) (loss of function) in	ribosomal protein S28	10418	RPS28	6234
+124	Blackfan-Diamond anemia	Not yet assessed	Candidate gene tested in	ribosomal protein L27	10328	RPL27	6155
+124	Blackfan-Diamond anemia	Not yet assessed	Candidate gene tested in	ribosomal protein S27	10416	RPS27	6232
 168563	46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome	Assessed	Disease-causing germline mutation(s) in	desert hedgehog	2865	DHH	50846
 242	46,XY complete gonadal dysgenesis	Assessed	Disease-causing germline mutation(s) in	desert hedgehog	2865	DHH	50846
 168566	Fatal mitochondrial disease due to combined oxidative phosphorylation defect type 3	Assessed	Disease-causing germline mutation(s) (loss of function) in	Ts translation elongation factor, mitochondrial	12367	TSFM	10102
@@ -1356,6 +1392,10 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 1065	Aniridia-cerebellar ataxia-intellectual disability syndrome	Assessed	Disease-causing germline mutation(s) in	inositol 1,4,5-trisphosphate receptor type 1	6180	ITPR1	3708
 208513	Spinocerebellar ataxia type 29	Assessed	Disease-causing germline mutation(s) in	inositol 1,4,5-trisphosphate receptor type 1	6180	ITPR1	3708
 98769	Spinocerebellar ataxia type 15/16	Assessed	Disease-causing germline mutation(s) in	inositol 1,4,5-trisphosphate receptor type 1	6180	ITPR1	3708
+168448	Spondyloepimetaphyseal dysplasia, Bieganski type	Assessed	Disease-causing germline mutation(s) in	apoptosis inducing factor mitochondria associated 1	8768	AIFM1	9131
+139583	X-linked hereditary sensory and autonomic neuropathy with deafness	Assessed	Disease-causing germline mutation(s) in	apoptosis inducing factor mitochondria associated 1	8768	AIFM1	9131
+238329	Severe X-linked mitochondrial encephalomyopathy	Assessed	Disease-causing germline mutation(s) in	apoptosis inducing factor mitochondria associated 1	8768	AIFM1	9131
+101078	X-linked Charcot-Marie-Tooth disease type 4	Assessed	Disease-causing germline mutation(s) in	apoptosis inducing factor mitochondria associated 1	8768	AIFM1	9131
 168454	Spondyloepimetaphyseal dysplasia, Geneviève type	Assessed	Disease-causing germline mutation(s) (loss of function) in	N-acetylneuraminate synthase	19237	NANS	54187
 1146	Digitotalar dysmorphism	Assessed	Disease-causing germline mutation(s) in	troponin I2, fast skeletal type	11946	TNNI2	7136
 1147	Sheldon-Hall syndrome	Assessed	Disease-causing germline mutation(s) in	troponin I2, fast skeletal type	11946	TNNI2	7136
@@ -1364,6 +1404,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 1146	Digitotalar dysmorphism	Assessed	Disease-causing germline mutation(s) in	myosin heavy chain 3	7573	MYH3	4621
 1147	Sheldon-Hall syndrome	Assessed	Disease-causing germline mutation(s) in	myosin heavy chain 3	7573	MYH3	4621
 2053	Freeman-Sheldon syndrome	Assessed	Disease-causing germline mutation(s) in	myosin heavy chain 3	7573	MYH3	4621
+3275	Spondylocarpotarsal synostosis	Assessed	Disease-causing germline mutation(s) in	myosin heavy chain 3	7573	MYH3	4621
 65743	Autosomal dominant multiple pterygium syndrome	Assessed	Disease-causing germline mutation(s) in	myosin heavy chain 3	7573	MYH3	4621
 1146	Digitotalar dysmorphism	Assessed	Disease-causing germline mutation(s) in	myosin binding protein C, slow type	7549	MYBPC1	4604
 137783	Lethal congenital contracture syndrome type 3	Assessed	Disease-causing germline mutation(s) in	myosin binding protein C, slow type	7549	MYBPC1	4604
@@ -1396,7 +1437,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 1775	Dyskeratosis congenita	Assessed	Disease-causing germline mutation(s) in	poly(A)-specific ribonuclease	8609	PARN	5073
 3322	Hoyeraal-Hreidarsson syndrome	Assessed	Disease-causing germline mutation(s) in	poly(A)-specific ribonuclease	8609	PARN	5073
 2032	Idiopathic pulmonary fibrosis	Assessed	Major susceptibility factor in	poly(A)-specific ribonuclease	8609	PARN	5073
-1764	Familial dysautonomia	Assessed	Disease-causing germline mutation(s) in	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein	5959	ELP1	8518
+1764	Familial dysautonomia	Assessed	Disease-causing germline mutation(s) in	elongator complex protein 1	5959	ELP1	8518
 235	Dubowitz syndrome	Assessed	Disease-causing germline mutation(s) in	DNA ligase 4	6601	LIG4	3981
 39041	Omenn syndrome	Assessed	Disease-causing germline mutation(s) in	DNA ligase 4	6601	LIG4	3981
 99812	LIG4 syndrome	Assessed	Disease-causing germline mutation(s) in	DNA ligase 4	6601	LIG4	3981
@@ -1426,6 +1467,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 226	Dihydropteridine reductase deficiency	Assessed	Disease-causing germline mutation(s) in	quinoid dihydropteridine reductase	9752	QDPR	5860
 1496	Corpus callosum agenesis-neuronopathy syndrome	Assessed	Disease-causing germline mutation(s) in	solute carrier family 12 member 6	10914	SLC12A6	9990
 417	Neonatal severe primary hyperparathyroidism	Assessed	Disease-causing germline mutation(s) (loss of function) in	calcium sensing receptor	1514	CASR	846
+676	Hereditary chronic pancreatitis	Not yet assessed	Candidate gene tested in	calcium sensing receptor	1514	CASR	846
 263417	Bartter syndrome with hypocalcemia	Assessed	Disease-causing germline mutation(s) (gain of function) in	calcium sensing receptor	1514	CASR	846
 428	Autosomal dominant hypocalcemia	Assessed	Disease-causing germline mutation(s) (gain of function) in	calcium sensing receptor	1514	CASR	846
 93372	Familial hypocalciuric hypercalcemia type 1	Assessed	Disease-causing germline mutation(s) (loss of function) in	calcium sensing receptor	1514	CASR	846
@@ -1470,6 +1512,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 2020	Congenital fiber-type disproportion myopathy	Assessed	Disease-causing germline mutation(s) in	integrin subunit alpha 7	6143	ITGA7	3679
 34520	Congenital muscular dystrophy with integrin alpha-7 deficiency	Assessed	Disease-causing germline mutation(s) in	integrin subunit alpha 7	6143	ITGA7	3679
 2020	Congenital fiber-type disproportion myopathy	Assessed	Disease-causing germline mutation(s) (loss of function) in	3-hydroxyacyl-CoA dehydratase 1	9639	HACD1	9200
+2020	Congenital fiber-type disproportion myopathy	Assessed	Disease-causing germline mutation(s) in	mitogen-activated protein kinase kinase kinase 20	17797	MAP3K20	51776
 1933	Mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria	Assessed	Disease-causing germline mutation(s) in	succinate-CoA ligase ADP-forming beta subunit	11448	SUCLA2	8803
 1880	Ebstein malformation	Assessed	Disease-causing germline mutation(s) in	myosin heavy chain 7	7577	MYH7	4625
 154	Familial isolated dilated cardiomyopathy	Assessed	Disease-causing germline mutation(s) in	myosin heavy chain 7	7577	MYH7	4625
@@ -1514,6 +1557,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 3071	Costello syndrome	Assessed	Disease-causing germline mutation(s) (gain of function) in	HRas proto-oncogene, GTPase	5173	HRAS	3265
 146	Differentiated thyroid carcinoma	Assessed	Disease-causing somatic mutation(s) in	HRas proto-oncogene, GTPase	5173	HRAS	3265
 2874	Phakomatosis pigmentokeratotica	Assessed	Disease-causing somatic mutation(s) in	HRas proto-oncogene, GTPase	5173	HRAS	3265
+79414	Woolly hair nevus	Assessed	Disease-causing somatic mutation(s) in	HRas proto-oncogene, GTPase	5173	HRAS	3265
 2635	Metatropic dysplasia	Assessed	Disease-causing germline mutation(s) in	transient receptor potential cation channel subfamily V member 4	18083	TRPV4	59341
 1216	Autosomal dominant congenital benign spinal muscular atrophy	Assessed	Disease-causing germline mutation(s) in	transient receptor potential cation channel subfamily V member 4	18083	TRPV4	59341
 2646	Parastremmatic dwarfism	Assessed	Disease-causing germline mutation(s) in	transient receptor potential cation channel subfamily V member 4	18083	TRPV4	59341
@@ -1624,6 +1668,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 324703	ABetaL34V amyloidosis	Assessed	Disease-causing germline mutation(s) in	amyloid beta precursor protein	620	APP	351
 100006	ABeta amyloidosis, Dutch type	Assessed	Disease-causing germline mutation(s) in	amyloid beta precursor protein	620	APP	351
 1020	Early-onset autosomal dominant Alzheimer disease	Assessed	Disease-causing germline mutation(s) in	sortilin related receptor 1	11185	SORL1	6653
+1020	Early-onset autosomal dominant Alzheimer disease	Not yet assessed	Biomarker tested in	translocase of outer mitochondrial membrane 40	18001	TOMM40	10452
 54	X-linked recessive ocular albinism	Assessed	Disease-causing germline mutation(s) in	G protein-coupled receptor 143	20145	GPR143	4935
 154	Familial isolated dilated cardiomyopathy	Assessed	Disease-causing germline mutation(s) in	ATP binding cassette subfamily C member 9	60	ABCC9	10060
 965	Acromegaloid facial appearance syndrome	Assessed	Disease-causing germline mutation(s) in	ATP binding cassette subfamily C member 9	60	ABCC9	10060
@@ -1707,6 +1752,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 1606	1p36 deletion syndrome	Assessed	Role in the phenotype of	PR/SET domain 16	14000	PRDM16	63976
 54260	Left ventricular noncompaction	Assessed	Disease-causing germline mutation(s) in	PR/SET domain 16	14000	PRDM16	63976
 154	Familial isolated dilated cardiomyopathy	Assessed	Disease-causing germline mutation(s) in	ankyrin repeat domain 1	15819	ANKRD1	27063
+154	Familial isolated dilated cardiomyopathy	Not yet assessed	Candidate gene tested in	nebulette	16932	NEBL	10529
 84	Fanconi anemia	Assessed	Disease-causing germline mutation(s) in	RAD51 recombinase	9817	RAD51	5888
 145	Hereditary breast and ovarian cancer syndrome	Not yet assessed	Candidate gene tested in	RAD51 recombinase	9817	RAD51	5888
 238722	Familial congenital mirror movements	Assessed	Disease-causing germline mutation(s) in	RAD51 recombinase	9817	RAD51	5888
@@ -1770,13 +1816,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 93926	Midline interhemispheric variant of holoprosencephaly	Assessed	Disease-causing germline mutation(s) in	SIX homeobox 3	10889	SIX3	6496
 93924	Lobar holoprosencephaly	Assessed	Disease-causing germline mutation(s) in	SIX homeobox 3	10889	SIX3	6496
 93925	Alobar holoprosencephaly	Assessed	Disease-causing germline mutation(s) in	SIX homeobox 3	10889	SIX3	6496
-799	Schizencephaly	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
-899	Walker-Warburg syndrome	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
-477749	Pontine autosomal dominant microangiopathy with leukoencephalopathy	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
-75326	Retinal arterial tortuosity	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
-73229	Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
-36383	COL4A1-related familial vascular leukoencephalopathy	Not yet assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
-99810	Familial porencephaly	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
 799	Schizencephaly	Assessed	Major susceptibility factor in	empty spiracles homeobox 2	3341	EMX2	2018
 816	Sjögren-Larsson syndrome	Assessed	Disease-causing germline mutation(s) in	aldehyde dehydrogenase 3 family member A2	403	ALDH3A2	224
 821	Sotos syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	nuclear receptor binding SET domain protein 1	14234	NSD1	64324
@@ -1805,12 +1844,14 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 93387	Brachydactyly type E	Assessed	Disease-causing germline mutation(s) in	homeobox D13	5136	HOXD13	3239
 909	Cerebrotendinous xanthomatosis	Assessed	Disease-causing germline mutation(s) in	cytochrome P450 family 27 subfamily A member 1	2605	CYP27A1	1593
 3447	Weaver syndrome	Assessed	Disease-causing germline mutation(s) in	enhancer of zeste 2 polycomb repressive complex 2 subunit	3527	EZH2	2146
+3447	Weaver syndrome	Assessed	Disease-causing germline mutation(s) in	embryonic ectoderm development	3188	EED	8726
 1422	Chondrodysplasia-disorder of sex development syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	hedgehog acyltransferase	18270	HHAT	55733
 178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	transcription factor 4	11634	TCF4	6925
 171	Primary sclerosing cholangitis	Assessed	Major susceptibility factor in	transcription factor 4	11634	TCF4	6925
 2896	Pitt-Hopkins syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	transcription factor 4	11634	TCF4	6925
 98974	Fuchs endothelial corneal dystrophy	Assessed	Disease-causing germline mutation(s) in	transcription factor 4	11634	TCF4	6925
 178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	synaptic Ras GTPase activating protein 1	11497	SYNGAP1	8831
+442835	Undetermined early-onset epileptic encephalopathy	Not yet assessed	Candidate gene tested in	synaptic Ras GTPase activating protein 1	11497	SYNGAP1	8831
 178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	cadherin 15	1754	CDH15	1013
 178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	kin of IRRE like 3 (Drosophila)	23204	KIRREL3	84623
 178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	dedicator of cytokinesis 8	19191	DOCK8	81704
@@ -1829,11 +1870,10 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 284232	Autosomal dominant Charcot-Marie-Tooth disease type 2O	Assessed	Disease-causing germline mutation(s) in	dynein cytoplasmic 1 heavy chain 1	2961	DYNC1H1	1778
 178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	calcium voltage-gated channel auxiliary subunit gamma 2	1406	CACNG2	10369
 178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	erythrocyte membrane protein band 4.1 like 1	3378	EPB41L1	2036
-178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	DEAF1, transcription factor	14677	DEAF1	10522
-468620	Intellectual disability-epilepsy-extrapyramidal syndrome	Assessed	Disease-causing germline mutation(s) in	DEAF1, transcription factor	14677	DEAF1	10522
 178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	eukaryotic translation elongation factor 1 alpha 2	3192	EEF1A2	1917
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) in	eukaryotic translation elongation factor 1 alpha 2	3192	EEF1A2	1917
 178469	Autosomal dominant non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	chromosome alignment maintaining phosphoprotein 1	20311	CHAMP1	283489
+178469	Autosomal dominant non-syndromic intellectual disability	Not yet assessed	Candidate gene tested in	lysine demethylase 5B	18039	KDM5B	10765
 178461	X-linked myopathy with postural muscle atrophy	Assessed	Disease-causing germline mutation(s) in	four and a half LIM domains 1	3702	FHL1	2273
 431272	X-linked scapuloperoneal muscular dystrophy	Assessed	Disease-causing germline mutation(s) in	four and a half LIM domains 1	3702	FHL1	2273
 97239	Reducing body myopathy	Assessed	Disease-causing germline mutation(s) in	four and a half LIM domains 1	3702	FHL1	2273
@@ -1884,6 +1924,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 319308	MiT family translocation renal cell carcinoma	Assessed	Part of a fusion gene in	clathrin heavy chain	2092	CLTC	1213
 178342	Inflammatory myofibroblastic tumor	Assessed	Part of a fusion gene in	cysteinyl-tRNA synthetase	1493	CARS	833
 178342	Inflammatory myofibroblastic tumor	Assessed	Part of a fusion gene in	tropomyosin 4	12013	TPM4	7171
+140957	Autosomal dominant macrothrombocytopenia	Assessed	Disease-causing germline mutation(s) (loss of function) in	tropomyosin 4	12013	TPM4	7171
 117	Behçet disease	Assessed	Major susceptibility factor in	Fas cell surface death receptor	11920	FAS	355
 3261	Autoimmune lymphoproliferative syndrome	Assessed	Disease-causing germline mutation(s) in	Fas cell surface death receptor	11920	FAS	355
 3261	Autoimmune lymphoproliferative syndrome	Assessed	Disease-causing somatic mutation(s) in	Fas cell surface death receptor	11920	FAS	355
@@ -2003,12 +2044,15 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 244	Primary ciliary dyskinesia	Assessed	Disease-causing germline mutation(s) (loss of function) in	growth arrest specific 8	4166	GAS8	2622
 244	Primary ciliary dyskinesia	Assessed	Disease-causing germline mutation(s) (loss of function) in	DnaJ heat shock protein family (Hsp40) member B13	30718	DNAJB13	374407
 244	Primary ciliary dyskinesia	Assessed	Disease-causing germline mutation(s) (loss of function) in	tetratricopeptide repeat domain 25	25280	TTC25	83538
+244	Primary ciliary dyskinesia	Assessed	Disease-causing germline mutation(s) (loss of function) in	multiciliate differentiation and DNA synthesis associated cell cycle protein	40050	MCIDAS	345643
 244	Primary ciliary dyskinesia	Assessed	Disease-causing germline mutation(s) (loss of function) in	PIH1 domain containing 3	28570	PIH1D3	139212
 178307	Reticulate acropigmentation of Kitamura	Assessed	Disease-causing germline mutation(s) (loss of function) in	ADAM metallopeptidase domain 10	188	ADAM10	102
 805	Tuberous sclerosis complex	Assessed	Disease-causing germline mutation(s) in	tuberous sclerosis 1	12362	TSC1	7248
 269008	Isolated focal cortical dysplasia type IIb	Not yet assessed	Major susceptibility factor in	tuberous sclerosis 1	12362	TSC1	7248
 538	Lymphangioleiomyomatosis	Assessed	Disease-causing somatic mutation(s) in	tuberous sclerosis 1	12362	TSC1	7248
 805	Tuberous sclerosis complex	Assessed	Disease-causing germline mutation(s) in	tuberous sclerosis 2	12363	TSC2	7249
+269008	Isolated focal cortical dysplasia type IIb	Assessed	Disease-causing somatic mutation(s) in	tuberous sclerosis 2	12363	TSC2	7249
+269001	Isolated focal cortical dysplasia type IIa	Assessed	Disease-causing somatic mutation(s) in	tuberous sclerosis 2	12363	TSC2	7249
 538	Lymphangioleiomyomatosis	Assessed	Disease-causing somatic mutation(s) in	tuberous sclerosis 2	12363	TSC2	7249
 88924	Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis	Assessed	Role in the phenotype of	tuberous sclerosis 2	12363	TSC2	7249
 791	Retinitis pigmentosa	Assessed	Disease-causing germline mutation(s) in	protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-)	19139	POMGNT1	55624
@@ -2121,6 +2165,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 791	Retinitis pigmentosa	Assessed	Disease-causing germline mutation(s) (loss of function) in	pre-mRNA processing factor 4	17349	PRPF4	9128
 791	Retinitis pigmentosa	Assessed	Disease-causing germline mutation(s) in	ATP/GTP binding protein like 5	26147	AGBL5	60509
 791	Retinitis pigmentosa	Assessed	Disease-causing germline mutation(s) (loss of function) in	receptor accessory protein 6	30078	REEP6	92840
+791	Retinitis pigmentosa	Assessed	Disease-causing germline mutation(s) in	Rho/Rac guanine nucleotide exchange factor 18	17090	ARHGEF18	23370
 2131	Alternating hemiplegia of childhood	Assessed	Disease-causing germline mutation(s) in	ATPase Na+/K+ transporting subunit alpha 2	800	ATP1A2	477
 569	Familial or sporadic hemiplegic migraine	Assessed	Disease-causing germline mutation(s) in	ATPase Na+/K+ transporting subunit alpha 2	800	ATP1A2	477
 2131	Alternating hemiplegia of childhood	Assessed	Disease-causing germline mutation(s) in	ATPase Na+/K+ transporting subunit alpha 3	801	ATP1A3	478
@@ -2134,7 +2179,9 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 3166	Sialuria	Assessed	Disease-causing germline mutation(s) in	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase	23657	GNE	10020
 602	GNE myopathy	Assessed	Disease-causing germline mutation(s) in	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase	23657	GNE	10020
 2882	Sitosterolemia	Assessed	Disease-causing germline mutation(s) in	ATP binding cassette subfamily G member 5	13886	ABCG5	64240
+391665	Homozygous familial hypercholesterolemia	Not yet assessed	Candidate gene tested in	ATP binding cassette subfamily G member 5	13886	ABCG5	64240
 2882	Sitosterolemia	Assessed	Disease-causing germline mutation(s) in	ATP binding cassette subfamily G member 8	13887	ABCG8	64241
+391665	Homozygous familial hypercholesterolemia	Not yet assessed	Candidate gene tested in	ATP binding cassette subfamily G member 8	13887	ABCG8	64241
 900	Granulomatosis with polyangiitis	Assessed	Major susceptibility factor in	proteinase 3	9495	PRTN3	5657
 900	Granulomatosis with polyangiitis	Assessed	Major susceptibility factor in	cytotoxic T-lymphocyte associated protein 4	2505	CTLA4	1493
 2584	Classic mycosis fungoides	Assessed	Part of a fusion gene in	cytotoxic T-lymphocyte associated protein 4	2505	CTLA4	1493
@@ -2182,7 +2229,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 808	Seckel syndrome	Assessed	Disease-causing germline mutation(s) in	centromere protein J	17272	CENPJ	55835
 2512	Autosomal recessive primary microcephaly	Assessed	Disease-causing germline mutation(s) in	abnormal spindle microtubule assembly	19048	ASPM	259266
 2512	Autosomal recessive primary microcephaly	Assessed	Disease-causing germline mutation(s) in	microcephalin 1	6954	MCPH1	79648
-52183	Premature chromosome condensation with microcephaly and intellectual disability	Assessed	Disease-causing germline mutation(s) (loss of function) in	microcephalin 1	6954	MCPH1	79648
 2512	Autosomal recessive primary microcephaly	Assessed	Disease-causing germline mutation(s) in	SCL/TAL1 interrupting locus	10879	STIL	6491
 99861	Precursor T-cell acute lymphoblastic leukemia	Assessed	Part of a fusion gene in	SCL/TAL1 interrupting locus	10879	STIL	6491
 2512	Autosomal recessive primary microcephaly	Assessed	Disease-causing germline mutation(s) in	WD repeat domain 62	24502	WDR62	284403
@@ -2197,6 +2243,8 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 2512	Autosomal recessive primary microcephaly	Assessed	Disease-causing germline mutation(s) (loss of function) in	major facilitator superfamily domain containing 2A	25897	MFSD2A	84879
 2512	Autosomal recessive primary microcephaly	Assessed	Disease-causing germline mutation(s) in	ankyrin repeat and LEM domain containing 2	29101	ANKLE2	23141
 2512	Autosomal recessive primary microcephaly	Assessed	Disease-causing germline mutation(s) in	citron rho-interacting serine/threonine kinase	1985	CIT	11113
+2512	Autosomal recessive primary microcephaly	Assessed	Disease-causing germline mutation(s) in	TATA-box binding protein associated factor 13	11546	TAF13	6884
+2512	Autosomal recessive primary microcephaly	Assessed	Disease-causing germline mutation(s) in	pyrroline-5-carboxylate reductase 2	30262	PYCR2	29920
 171876	Generalized pseudohypoaldosteronism type 1	Assessed	Disease-causing germline mutation(s) (loss of function) in	sodium channel epithelial 1 alpha subunit	10599	SCNN1A	6337
 60033	Idiopathic bronchiectasis	Not yet assessed	Disease-causing germline mutation(s) in	sodium channel epithelial 1 alpha subunit	10599	SCNN1A	6337
 171876	Generalized pseudohypoaldosteronism type 1	Assessed	Disease-causing germline mutation(s) (loss of function) in	sodium channel epithelial 1 beta subunit	10600	SCNN1B	6338
@@ -2381,6 +2429,10 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 189439	Primary pigmented nodular adrenocortical disease	Assessed	Role in the phenotype of	protein kinase cAMP-activated catalytic subunit alpha	9380	PRKACA	5566
 401920	Fibrolamellar hepatocellular carcinoma	Assessed	Part of a fusion gene in	protein kinase cAMP-activated catalytic subunit alpha	9380	PRKACA	5566
 3006	Pyridoxine-dependent epilepsy	Assessed	Disease-causing germline mutation(s) in	aldehyde dehydrogenase 7 family member A1	877	ALDH7A1	501
+3006	Pyridoxine-dependent epilepsy	Assessed	Disease-causing germline mutation(s) in	solute carrier family 13 member 5	23089	SLC13A5	284111
+1946	Amelocerebrohypohidrotic syndrome	Assessed	Disease-causing germline mutation(s) in	solute carrier family 13 member 5	23089	SLC13A5	284111
+442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) in	solute carrier family 13 member 5	23089	SLC13A5	284111
+3006	Pyridoxine-dependent epilepsy	Assessed	Disease-causing germline mutation(s) in	pyridoxal phosphate binding protein	9457	PLPBP	11212
 3111	Rotor syndrome	Assessed	Disease-causing germline mutation(s) in	solute carrier organic anion transporter family member 1B1	10959	SLCO1B1	10599
 413696	Statin toxicity	Assessed	Biomarker tested in	solute carrier organic anion transporter family member 1B1	10959	SLCO1B1	10599
 3111	Rotor syndrome	Assessed	Disease-causing germline mutation(s) in	solute carrier organic anion transporter family member 1B3	10961	SLCO1B3	28234
@@ -2506,6 +2558,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 808	Seckel syndrome	Assessed	Disease-causing germline mutation(s) in	ATR interacting protein	33499	ATRIP	84126
 808	Seckel syndrome	Not yet assessed	Disease-causing germline mutation(s) in	centromere protein E	1856	CENPE	1062
 808	Seckel syndrome	Not yet assessed	Disease-causing germline mutation(s) (loss of function) in	polo like kinase 4	11397	PLK4	10733
+2518	Autosomal recessive chorioretinopathy-microcephaly syndrome	Assessed	Disease-causing germline mutation(s) in	polo like kinase 4	11397	PLK4	10733
 808	Seckel syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	TRAF interacting protein	30764	TRAIP	10293
 3027	Caudal regression sequence	Assessed	Major susceptibility factor in	VANGL planar cell polarity protein 1	15512	VANGL1	81839
 268770	Upper thoracic spina bifida cystica	Assessed	Major susceptibility factor in	VANGL planar cell polarity protein 1	15512	VANGL1	81839
@@ -2595,6 +2648,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 146	Differentiated thyroid carcinoma	Assessed	Major susceptibility factor in	forkhead box E1	3806	FOXE1	2304
 1226	Bamforth-Lazarus syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	forkhead box E1	3806	FOXE1	2304
 319487	Familial papillary or follicular thyroid carcinoma	Assessed	Disease-causing germline mutation(s) in	forkhead box E1	3806	FOXE1	2304
+95713	Athyreosis	Not yet assessed	Candidate gene tested in	forkhead box E1	3806	FOXE1	2304
 146	Differentiated thyroid carcinoma	Assessed	Part of a fusion gene in	golgin A5	4428	GOLGA5	9950
 146	Differentiated thyroid carcinoma	Assessed	Part of a fusion gene in	paired box 8	8622	PAX8	7849
 95713	Athyreosis	Assessed	Disease-causing germline mutation(s) (loss of function) in	paired box 8	8622	PAX8	7849
@@ -2604,6 +2658,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 146	Differentiated thyroid carcinoma	Assessed	Major susceptibility factor in	NK2 homeobox 1	11825	NKX2-1	7080
 1429	Benign familial chorea	Assessed	Disease-causing germline mutation(s) in	NK2 homeobox 1	11825	NKX2-1	7080
 209905	Brain-lung-thyroid syndrome	Assessed	Disease-causing germline mutation(s) in	NK2 homeobox 1	11825	NKX2-1	7080
+95713	Athyreosis	Not yet assessed	Candidate gene tested in	NK2 homeobox 1	11825	NKX2-1	7080
 146	Differentiated thyroid carcinoma	Assessed	Part of a fusion gene in	nuclear receptor coactivator 4	7671	NCOA4	8031
 146	Differentiated thyroid carcinoma	Assessed	Disease-causing somatic mutation(s) in	NADH:ubiquinone oxidoreductase subunit A13	17194	NDUFA13	51079
 255241	Leigh syndrome with leukodystrophy	Assessed	Disease-causing germline mutation(s) in	NADH:ubiquinone oxidoreductase subunit A13	17194	NDUFA13	51079
@@ -2632,6 +2687,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 93970	Holmes-Gang syndrome	Assessed	Disease-causing germline mutation(s) in	ATRX, chromatin remodeler	886	ATRX	546
 93973	Carpenter-Waziri syndrome	Assessed	Disease-causing germline mutation(s) in	ATRX, chromatin remodeler	886	ATRX	546
 93972	Juberg-Marsidi syndrome	Assessed	Disease-causing germline mutation(s) in	ATRX, chromatin remodeler	886	ATRX	546
+100075	Gastric neuroendocrine tumor	Not yet assessed	Candidate gene tested in	ATRX, chromatin remodeler	886	ATRX	546
 2268	ICF syndrome	Assessed	Disease-causing germline mutation(s) in	DNA methyltransferase 3 beta	2979	DNMT3B	1789
 2268	ICF syndrome	Assessed	Disease-causing germline mutation(s) in	zinc finger and BTB domain containing 24	21143	ZBTB24	9841
 2268	ICF syndrome	Assessed	Disease-causing germline mutation(s) in	cell division cycle associated 7	14628	CDCA7	83879
@@ -2859,7 +2915,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 88642	Channelopathy-associated congenital insensitivity to pain	Assessed	Disease-causing germline mutation(s) (loss of function) in	sodium voltage-gated channel alpha subunit 9	10597	SCN9A	6335
 970	Hereditary sensory and autonomic neuropathy type 2	Assessed	Disease-causing germline mutation(s) (loss of function) in	WNK lysine deficient protein kinase 1	14540	WNK1	65125
 88940	Pseudohypoaldosteronism type 2C	Assessed	Disease-causing germline mutation(s) in	WNK lysine deficient protein kinase 1	14540	WNK1	65125
-970	Hereditary sensory and autonomic neuropathy type 2	Assessed	Disease-causing germline mutation(s) (loss of function) in	family with sequence similarity 134 member B	25964	RETREG1	54463
+970	Hereditary sensory and autonomic neuropathy type 2	Assessed	Disease-causing germline mutation(s) (loss of function) in	reticulophagy regulator 1	25964	RETREG1	54463
 40	Acromesomelic dysplasia, Maroteaux type	Assessed	Disease-causing germline mutation(s) in	natriuretic peptide receptor 2	7944	NPR2	4882
 329191	Tall stature-scoliosis-macrodactyly of the great toes syndrome	Assessed	Disease-causing germline mutation(s) (gain of function) in	natriuretic peptide receptor 2	7944	NPR2	4882
 969	Acromicric dysplasia	Assessed	Disease-causing germline mutation(s) in	latent transforming growth factor beta binding protein 3	6716	LTBP3	4054
@@ -3169,9 +3225,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 90154	Mandibuloacral dysplasia with type B lipodystrophy	Assessed	Disease-causing germline mutation(s) in	zinc metallopeptidase STE24	12877	ZMPSTE24	10269
 139552	Distal hereditary motor neuropathy, Jerash type	Assessed	Disease-causing germline mutation(s) in	sigma non-opioid intracellular receptor 1	8157	SIGMAR1	10280
 300605	Juvenile amyotrophic lateral sclerosis	Assessed	Disease-causing germline mutation(s) in	sigma non-opioid intracellular receptor 1	8157	SIGMAR1	10280
-139583	X-linked hereditary sensory and autonomic neuropathy with deafness	Assessed	Disease-causing germline mutation(s) in	apoptosis inducing factor mitochondria associated 1	8768	AIFM1	9131
-238329	Severe X-linked mitochondrial encephalomyopathy	Assessed	Disease-causing germline mutation(s) in	apoptosis inducing factor mitochondria associated 1	8768	AIFM1	9131
-101078	X-linked Charcot-Marie-Tooth disease type 4	Assessed	Disease-causing germline mutation(s) in	apoptosis inducing factor mitochondria associated 1	8768	AIFM1	9131
 1667	Wolcott-Rallison syndrome	Assessed	Disease-causing germline mutation(s) in	eukaryotic translation initiation factor 2 alpha kinase 3	3255	EIF2AK3	9451
 139578	Hereditary sensory and autonomic neuropathy with spastic paraplegia	Assessed	Disease-causing germline mutation(s) in	chaperonin containing TCP1 subunit 5	1618	CCT5	22948
 139589	Distal hereditary motor neuropathy type 7	Assessed	Disease-causing germline mutation(s) in	solute carrier family 5 member 7	14025	SLC5A7	60482
@@ -3212,6 +3265,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 3152	Sclerosteosis	Assessed	Disease-causing germline mutation(s) (loss of function) in	sclerostin	13771	SOST	50964
 140481	Autosomal dominant slowed nerve conduction velocity	Assessed	Disease-causing germline mutation(s) in	Rho guanine nucleotide exchange factor 10	14103	ARHGEF10	9639
 1515	Cranioectodermal dysplasia	Assessed	Disease-causing germline mutation(s) in	intraflagellar transport 122	13556	IFT122	55764
+93268	Short rib-polydactyly syndrome, Beemer-Langer type	Not yet assessed	Candidate gene tested in	intraflagellar transport 122	13556	IFT122	55764
 1515	Cranioectodermal dysplasia	Assessed	Disease-causing germline mutation(s) in	WD repeat domain 35	29250	WDR35	57539
 93271	Short rib-polydactyly syndrome, Verma-Naumoff type	Not yet assessed	Disease-causing germline mutation(s) in	WD repeat domain 35	29250	WDR35	57539
 1515	Cranioectodermal dysplasia	Assessed	Disease-causing germline mutation(s) in	intraflagellar transport 43	29669	IFT43	112752
@@ -3458,6 +3512,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 2440	Split hand-split foot malformation	Assessed	Disease-causing germline mutation(s) in	distal-less homeobox 5	2918	DLX5	1749
 71271	Split hand-split foot-deafness syndrome	Assessed	Disease-causing germline mutation(s) in	distal-less homeobox 5	2918	DLX5	1749
 2440	Split hand-split foot malformation	Not yet assessed	Candidate gene tested in	beta-transducin repeat containing E3 ubiquitin protein ligase	1144	BTRC	8945
+2440	Split hand-split foot malformation	Assessed	Disease-causing germline mutation(s) in	distal-less homeobox 6	2919	DLX6	1750
 244310	RFT1-CDG	Assessed	Disease-causing germline mutation(s) in	RFT1 homolog	30220	RFT1	91869
 244242	HELLP syndrome	Not yet assessed	Major susceptibility factor in	CD46 molecule	6953	CD46	4179
 93576	Atypical hemolytic-uremic syndrome with MCP/CD46 anomaly	Assessed	Disease-causing germline mutation(s) in	CD46 molecule	6953	CD46	4179
@@ -3492,6 +3547,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 561	Marshall-Smith syndrome	Assessed	Disease-causing germline mutation(s) in	nuclear factor I X	7788	NFIX	4784
 420179	Malan overgrowth syndrome	Assessed	Disease-causing germline mutation(s) in	nuclear factor I X	7788	NFIX	4784
 559	Marinesco-Sjögren syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	SIL1 nucleotide exchange factor	24624	SIL1	64374
+559	Marinesco-Sjögren syndrome	Assessed	Disease-causing germline mutation(s) in	inositol polyphosphate-5-phosphatase K	33882	INPP5K	51763
 251630	Anaplastic oligodendroglioma	Assessed	Major susceptibility factor in	protection of telomeres 1	17284	POT1	25913
 251627	Oligodendroglioma	Assessed	Major susceptibility factor in	protection of telomeres 1	17284	POT1	25913
 618	Familial melanoma	Assessed	Major susceptibility factor in	protection of telomeres 1	17284	POT1	25913
@@ -3530,6 +3586,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 251612	Pilocytic astrocytoma	Assessed	Part of a fusion gene in	SLIT-ROBO Rho GTPase activating protein 3	19744	SRGAP3	9901
 251612	Pilocytic astrocytoma	Assessed	Part of a fusion gene in	neurotrophic receptor tyrosine kinase 2	8032	NTRK2	4915
 2169	Methylcobalamin deficiency type cblE	Assessed	Disease-causing germline mutation(s) in	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	7473	MTRR	4552
+2224	Hypertryptophanemia	Assessed	Disease-causing germline mutation(s) in	tryptophan 2,3-dioxygenase	11708	TDO2	6999
 2237	Hypoparathyroidism-deafness-renal disease syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	GATA binding protein 3	4172	GATA3	2625
 99860	Precursor B-cell acute lymphoblastic leukemia	Assessed	Major susceptibility factor in	GATA binding protein 3	4172	GATA3	2625
 2199	Epidermolytic palmoplantar keratoderma	Assessed	Disease-causing germline mutation(s) in	keratin 16	6423	KRT16	3868
@@ -3575,6 +3632,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) in	WW domain containing oxidoreductase	12799	WWOX	51741
 99977	Squamous cell carcinoma of esophagus	Assessed	Major susceptibility factor in	WW domain containing oxidoreductase	12799	WWOX	51741
 251510	46,XY partial gonadal dysgenesis	Assessed	Role in the phenotype of	vesicle associated membrane protein 7	11486	VAMP7	6845
+251510	46,XY partial gonadal dysgenesis	Not yet assessed	Candidate gene tested in	doublesex and mab-3 related transcription factor 3	13909	DMRT3	58524
 251393	Localized junctional epidermolysis bullosa, non-Herlitz type	Assessed	Disease-causing germline mutation(s) in	collagen type XVII alpha 1 chain	2194	COL17A1	1308
 293381	Epithelial recurrent erosion dystrophy	Assessed	Disease-causing germline mutation(s) (gain of function) in	collagen type XVII alpha 1 chain	2194	COL17A1	1308
 79402	Generalized junctional epidermolysis bullosa, non-Herlitz type	Assessed	Disease-causing germline mutation(s) in	collagen type XVII alpha 1 chain	2194	COL17A1	1308
@@ -3587,6 +3645,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 1541	Craniosynostosis, Boston type	Assessed	Disease-causing germline mutation(s) in	msh homeobox 2	7392	MSX2	4488
 60015	Enlarged parietal foramina	Assessed	Disease-causing germline mutation(s) (loss of function) in	msh homeobox 2	7392	MSX2	4488
 251282	Autosomal dominant spastic ataxia type 1	Assessed	Disease-causing germline mutation(s) in	vesicle associated membrane protein 1	12642	VAMP1	6843
+98914	Presynaptic congenital myasthenic syndromes	Assessed	Disease-causing germline mutation(s) in	vesicle associated membrane protein 1	12642	VAMP1	6843
 251279	Microphthalmia-retinitis pigmentosa-foveoschisis-optic disc drusen syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	membrane frizzled-related protein	18121	MFRP	83552
 35612	Nanophthalmia	Assessed	Disease-causing germline mutation(s) in	membrane frizzled-related protein	18121	MFRP	83552
 251274	Familial hyperaldosteronism type III	Assessed	Disease-causing germline mutation(s) (gain of function) in	potassium voltage-gated channel subfamily J member 5	6266	KCNJ5	3762
@@ -3729,7 +3788,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 2505	Multiple benign circumferential skin creases on limbs	Assessed	Disease-causing germline mutation(s) in	tubulin beta class I	20778	TUBB	203068
 2510	Micro syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	RAB18, member RAS oncogene family	14244	RAB18	22931
 2510	Micro syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	TBC1 domain family member 20	16133	TBC1D20	128637
-2514	Autosomal dominant microcephaly	Assessed	Disease-causing germline mutation(s) (loss of function) in	dipeptidyl peptidase like 6	3010	DPP6	1804
+2514	Autosomal dominant primary microcephaly	Assessed	Disease-causing germline mutation(s) (loss of function) in	dipeptidyl peptidase like 6	3010	DPP6	1804
 228140	Idiopathic ventricular fibrillation, non Brugada type	Assessed	Disease-causing germline mutation(s) in	dipeptidyl peptidase like 6	3010	DPP6	1804
 2518	Autosomal recessive chorioretinopathy-microcephaly syndrome	Assessed	Disease-causing germline mutation(s) in	tubulin gamma complex associated protein 6	18127	TUBGCP6	85378
 2518	Autosomal recessive chorioretinopathy-microcephaly syndrome	Assessed	Disease-causing germline mutation(s) in	tubulin gamma complex associated protein 4	16691	TUBGCP4	27229
@@ -3909,6 +3968,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 2850	Alopecia-intellectual disability syndrome	Assessed	Disease-causing germline mutation(s) in	integrin subunit beta 6	6161	ITGB6	3694
 100032	Hypocalcified amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) in	integrin subunit beta 6	6161	ITGB6	3694
 100031	Hypoplastic amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) (loss of function) in	integrin subunit beta 6	6161	ITGB6	3694
+2850	Alopecia-intellectual disability syndrome	Assessed	Disease-causing germline mutation(s) in	alpha 2-HS glycoprotein	349	AHSG	197
 268129	Spheroid body myopathy	Assessed	Disease-causing germline mutation(s) in	myotilin	12399	MYOT	9499
 266	Autosomal dominant limb-girdle muscular dystrophy type 1A	Assessed	Disease-causing germline mutation(s) in	myotilin	12399	MYOT	9499
 98911	Distal myotilinopathy	Assessed	Disease-causing germline mutation(s) in	myotilin	12399	MYOT	9499
@@ -3917,6 +3977,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 466775	Autosomal recessive Charcot Marie Tooth disease type 2X	Assessed	Disease-causing germline mutation(s) in	SPG11, spatacsin vesicle trafficking associated	11226	SPG11	80208
 268261	DYRK1A-related intellectual disability syndrome due to 21q22.13q22.2 microdeletion	Assessed	Role in the phenotype of	dual specificity tyrosine phosphorylation regulated kinase 1A	3091	DYRK1A	1859
 464311	Intellectual disability syndrome due to a DYRK1A point mutation	Assessed	Disease-causing germline mutation(s) (loss of function) in	dual specificity tyrosine phosphorylation regulated kinase 1A	3091	DYRK1A	1859
+2836	PEHO syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	zinc finger HIT-type containing 3	12309	ZNHIT3	9326
 268162	Intermediate maple syrup urine disease	Assessed	Disease-causing germline mutation(s) in	branched chain keto acid dehydrogenase E1, alpha polypeptide	986	BCKDHA	593
 268145	Classic maple syrup urine disease	Assessed	Disease-causing germline mutation(s) in	branched chain keto acid dehydrogenase E1, alpha polypeptide	986	BCKDHA	593
 268184	Thiamine-responsive maple syrup urine disease	Assessed	Disease-causing germline mutation(s) in	branched chain keto acid dehydrogenase E1, alpha polypeptide	986	BCKDHA	593
@@ -3953,6 +4014,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 275777	Heritable pulmonary arterial hypertension	Assessed	Disease-causing germline mutation(s) in	SMAD family member 9	6774	SMAD9	4093
 275777	Heritable pulmonary arterial hypertension	Assessed	Disease-causing germline mutation(s) (loss of function) in	potassium two pore domain channel subfamily K member 3	6278	KCNK3	3777
 276145	Malignant epithelial tumor of salivary glands	Assessed	Disease-causing somatic mutation(s) in	protein kinase D1	9407	PRKD1	5587
+276066	Bile acid CoA ligase deficiency and defective amidation	Not yet assessed	Candidate gene tested in	solute carrier family 27 member 5	10999	SLC27A5	10998
 275864	Behavioral variant of frontotemporal dementia	Assessed	Major susceptibility factor in	microtubule associated protein tau	6893	MAPT	4137
 240071	Classic progressive supranuclear palsy syndrome	Assessed	Major susceptibility factor in	microtubule associated protein tau	6893	MAPT	4137
 240112	Progressive supranuclear palsy-progressive non-fluent aphasia syndrome	Assessed	Major susceptibility factor in	microtubule associated protein tau	6893	MAPT	4137
@@ -3979,6 +4041,9 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 3352	Tricho-dento-osseous syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	distal-less homeobox 3	2916	DLX3	1747
 100034	Hypomaturation-hypoplastic amelogenesis imperfecta with taurodontism	Assessed	Disease-causing germline mutation(s) in	distal-less homeobox 3	2916	DLX3	1747
 3342	Arterial tortuosity syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	solute carrier family 2 member 10	13444	SLC2A10	81031
+3338	Toriello-Carey syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	DEAD-box helicase 3, X-linked	2745	DDX3X	1654
+457260	X-linked intellectual disability-hypotonia-movement disorder syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	DEAD-box helicase 3, X-linked	2745	DDX3X	1654
+99861	Precursor T-cell acute lymphoblastic leukemia	Assessed	Part of a fusion gene in	DEAD-box helicase 3, X-linked	2745	DDX3X	1654
 3319	Congenital amegakaryocytic thrombocytopenia	Assessed	Disease-causing germline mutation(s) (loss of function) in	MPL proto-oncogene, thrombopoietin receptor	7217	MPL	4352
 3318	Essential thrombocythemia	Assessed	Disease-causing somatic mutation(s) in	MPL proto-oncogene, thrombopoietin receptor	7217	MPL	4352
 397692	Hereditary isolated aplastic anemia	Assessed	Disease-causing germline mutation(s) (loss of function) in	MPL proto-oncogene, thrombopoietin receptor	7217	MPL	4352
@@ -4319,9 +4384,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 777	X-linked non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	Rac/Cdc42 guanine nucleotide exchange factor 6	685	ARHGEF6	9459
 777	X-linked non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	zinc finger protein 81	13156	ZNF81	347344
 777	X-linked non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	synaptophysin	11506	SYP	6855
-777	X-linked non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	IQ motif and Sec7 domain 2	29059	IQSEC2	23096
-217377	Microduplication Xp11.22-p11.23 syndrome	Assessed	Role in the phenotype of	IQ motif and Sec7 domain 2	29059	IQSEC2	23096
-397933	Severe intellectual disability-progressive postnatal microcephaly- midline stereotypic hand movements syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	IQ motif and Sec7 domain 2	29059	IQSEC2	23096
 777	X-linked non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	zinc finger protein 711	13128	ZNF711	7552
 777	X-linked non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	host cell factor C1	4839	HCFC1	3054
 369962	Methylmalonic acidemia with homocystinuria, type cblX	Assessed	Disease-causing germline mutation(s) in	host cell factor C1	4839	HCFC1	3054
@@ -4418,6 +4480,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 3286	Catecholaminergic polymorphic ventricular tachycardia	Assessed	Disease-causing germline mutation(s) in	calmodulin 1	1442	CALM1	801
 101016	Romano-Ward syndrome	Assessed	Disease-causing germline mutation(s) in	calmodulin 1	1442	CALM1	801
 3286	Catecholaminergic polymorphic ventricular tachycardia	Not yet assessed	Candidate gene tested in	calmodulin 2	1445	CALM2	805
+130	Brugada syndrome	Assessed	Disease-causing germline mutation(s) in	calmodulin 2	1445	CALM2	805
 101016	Romano-Ward syndrome	Assessed	Disease-causing germline mutation(s) in	calmodulin 2	1445	CALM2	805
 3286	Catecholaminergic polymorphic ventricular tachycardia	Not yet assessed	Candidate gene tested in	calmodulin 3	1449	CALM3	808
 3286	Catecholaminergic polymorphic ventricular tachycardia	Assessed	Disease-causing germline mutation(s) in	trans-2,3-enoyl-CoA reductase-like	27365	TECRL	253017
@@ -4545,6 +4608,9 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 3162	Sézary syndrome	Assessed	Part of a fusion gene in	CD28 molecule	1653	CD28	940
 217093	Mucopolysaccharidosis type 2, attenuated form	Assessed	Disease-causing germline mutation(s) in	iduronate 2-sulfatase	5389	IDS	3423
 217085	Mucopolysaccharidosis type 2, severe form	Assessed	Disease-causing germline mutation(s) in	iduronate 2-sulfatase	5389	IDS	3423
+1451	CINCA syndrome	Not yet assessed	Candidate gene tested in	NLR family CARD domain containing 4	16412	NLRC4	58484
+436166	Periodic fever-infantile enterocolitis-autoinflammatory syndrome	Assessed	Disease-causing germline mutation(s) (gain of function) in	NLR family CARD domain containing 4	16412	NLRC4	58484
+47045	Familial cold urticaria	Assessed	Disease-causing germline mutation(s) in	NLR family CARD domain containing 4	16412	NLRC4	58484
 217055	Autosomal recessive intermediate Charcot-Marie-Tooth disease type A	Assessed	Disease-causing germline mutation(s) in	ganglioside induced differentiation associated protein 1	15968	GDAP1	54332
 101102	Charcot-Marie-Tooth disease type 2H	Not yet assessed	Candidate gene tested in	ganglioside induced differentiation associated protein 1	15968	GDAP1	54332
 101097	Autosomal recessive Charcot-Marie-Tooth disease with hoarseness	Assessed	Disease-causing germline mutation(s) in	ganglioside induced differentiation associated protein 1	15968	GDAP1	54332
@@ -4641,15 +4707,15 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) in	myosin VI	7605	MYO6	4646
 543	Burkitt lymphoma	Assessed	Part of a fusion gene in	v-myc avian myelocytomatosis viral oncogene homolog	7553	MYC	4609
 99861	Precursor T-cell acute lymphoblastic leukemia	Assessed	Part of a fusion gene in	v-myc avian myelocytomatosis viral oncogene homolog	7553	MYC	4609
-227535	Hereditary breast cancer	Not yet assessed	Candidate gene tested in	RAD54-like (S. cerevisiae)	9826	RAD54L	8438
-227535	Hereditary breast cancer	Not yet assessed	Candidate gene tested in	protein phosphatase, Mg2+/Mn2+ dependent 1D	9277	PPM1D	8493
-227535	Hereditary breast cancer	Not yet assessed	Candidate gene tested in	solute carrier family 22 member 18	10964	SLC22A18	5002
-99757	Embryonal rhabdomyosarcoma	Not yet assessed	Candidate gene tested in	solute carrier family 22 member 18	10964	SLC22A18	5002
 319	Ewing sarcoma	Assessed	Part of a fusion gene in	ERG, ETS transcription factor	3446	ERG	2078
 370348	Peripheral primitive neuroectodermal tumor	Not yet assessed	Part of a fusion gene in	ERG, ETS transcription factor	3446	ERG	2078
 370334	Extraskeletal Ewing sarcoma	Assessed	Part of a fusion gene in	ERG, ETS transcription factor	3446	ERG	2078
 319	Ewing sarcoma	Assessed	Part of a fusion gene in	ETS variant 1	3490	ETV1	2115
 319	Ewing sarcoma	Assessed	Part of a fusion gene in	ETS variant 4	3493	ETV4	2118
+227535	Hereditary breast cancer	Not yet assessed	Candidate gene tested in	RAD54-like (S. cerevisiae)	9826	RAD54L	8438
+227535	Hereditary breast cancer	Not yet assessed	Candidate gene tested in	protein phosphatase, Mg2+/Mn2+ dependent 1D	9277	PPM1D	8493
+227535	Hereditary breast cancer	Not yet assessed	Candidate gene tested in	solute carrier family 22 member 18	10964	SLC22A18	5002
+99757	Embryonal rhabdomyosarcoma	Not yet assessed	Candidate gene tested in	solute carrier family 22 member 18	10964	SLC22A18	5002
 2126	Solitary fibrous tumor	Assessed	Part of a fusion gene in	signal transducer and activator of transcription 6	11368	STAT6	6778
 2126	Solitary fibrous tumor	Assessed	Part of a fusion gene in	NGFI-A binding protein 2	7627	NAB2	4665
 758	Pseudoxanthoma elasticum	Assessed	Disease-causing germline mutation(s) (loss of function) in	ATP binding cassette subfamily C member 6	57	ABCC6	368
@@ -4755,6 +4821,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 2841	Familial benign chronic pemphigus	Assessed	Disease-causing germline mutation(s) in	ATPase secretory pathway Ca2+ transporting 1	13211	ATP2C1	27032
 231183	Usher syndrome type 3	Assessed	Disease-causing germline mutation(s) in	histidyl-tRNA synthetase	4816	HARS	3035
 231178	Usher syndrome type 2	Assessed	Disease-causing germline mutation(s) in	adhesion G protein-coupled receptor V1	17416	ADGRV1	84059
+36387	Generalized epilepsy with febrile seizures-plus	Not yet assessed	Candidate gene tested in	adhesion G protein-coupled receptor V1	17416	ADGRV1	84059
 231178	Usher syndrome type 2	Assessed	Disease-causing germline mutation(s) in	myosin VIIA	7606	MYO7A	4647
 231169	Usher syndrome type 1	Assessed	Disease-causing germline mutation(s) (loss of function) in	myosin VIIA	7606	MYO7A	4647
 90635	Autosomal dominant non-syndromic sensorineural deafness type DFNA	Assessed	Disease-causing germline mutation(s) in	myosin VIIA	7606	MYO7A	4647
@@ -4819,6 +4886,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 531	Miller-Dieker syndrome	Not yet assessed	Candidate gene tested in	HIC ZBTB transcriptional repressor 1	4909	HIC1	3090
 1083	Microlissencephaly	Assessed	Disease-causing germline mutation(s) in	katanin regulatory subunit B1	6217	KATNB1	10300
 238722	Familial congenital mirror movements	Assessed	Disease-causing germline mutation(s) in	DCC netrin 1 receptor	2701	DCC	1630
+238769	1q44 microdeletion syndrome	Assessed	Role in the phenotype of	heterogeneous nuclear ribonucleoprotein U	5048	HNRNPU	3192
 238505	Autosomal recessive lymphoproliferative disease	Assessed	Disease-causing germline mutation(s) in	IL2 inducible T-cell kinase	6171	ITK	3702
 238505	Autosomal recessive lymphoproliferative disease	Assessed	Disease-causing germline mutation(s) in	CD27 molecule	11922	CD27	939
 238475	Familial hypercholanemia	Assessed	Disease-causing germline mutation(s) in	epoxide hydrolase 1	3401	EPHX1	2052
@@ -4960,17 +5028,11 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 319465	Inherited acute myeloid leukemia	Assessed	Disease-causing germline mutation(s) in	CCAAT/enhancer binding protein alpha	1833	CEBPA	1050
 102724	Acute myeloid leukemia with t(8;21)(q22;q22) translocation	Assessed	Biomarker tested in	CCAAT/enhancer binding protein alpha	1833	CEBPA	1050
 319504	Combined oxidative phosphorylation defect type 8	Assessed	Disease-causing germline mutation(s) in	alanyl-tRNA synthetase 2, mitochondrial	21022	AARS2	57505
+313808	Hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia	Assessed	Disease-causing germline mutation(s) (loss of function) in	alanyl-tRNA synthetase 2, mitochondrial	21022	AARS2	57505
 99853	Ovarioleukodystrophy	Assessed	Disease-causing germline mutation(s) (loss of function) in	alanyl-tRNA synthetase 2, mitochondrial	21022	AARS2	57505
 319199	Autosomal recessive spastic paraplegia type 53	Assessed	Disease-causing germline mutation(s) in	VPS37A, ESCRT-I subunit	24928	VPS37A	137492
 319160	Congenital myopathy with internal nuclei and atypical cores	Assessed	Disease-causing germline mutation(s) in	coiled-coil domain containing 78	14153	CCDC78	124093
 319189	Familial cortical myoclonus	Assessed	Disease-causing germline mutation(s) in	nucleolar protein 3	7869	NOL3	8996
-319182	Wiedemann-Steiner syndrome	Assessed	Disease-causing germline mutation(s) in	lysine methyltransferase 2A	7132	KMT2A	4297
-402017	Acute myeloid leukemia with t(9;11)(p22;q23)	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
-98837	Acute biphenotypic leukemia	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
-98835	Acute undifferentiated leukemia	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
-98836	Bilineal acute leukemia	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
-98831	Acute myeloid leukemia with 11q23 abnormalities	Assessed	Role in the phenotype of	lysine methyltransferase 2A	7132	KMT2A	4297
-99860	Precursor B-cell acute lymphoblastic leukemia	Assessed	Part of a fusion gene in	lysine methyltransferase 2A	7132	KMT2A	4297
 317425	Severe combined immunodeficiency due to DNA-PKcs deficiency	Assessed	Disease-causing germline mutation(s) in	protein kinase, DNA-activated, catalytic polypeptide	9413	PRKDC	5591
 317473	Pancytopenia due to IKZF1 mutations	Assessed	Disease-causing germline mutation(s) in	IKAROS family zinc finger 1	13176	IKZF1	10320
 36426	Stevens-Johnson syndrome	Assessed	Major susceptibility factor in	IKAROS family zinc finger 1	13176	IKZF1	10320
@@ -5050,7 +5112,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 369847	Intellectual disability-hyperkinetic movement-truncal ataxia syndrome	Assessed	Disease-causing germline mutation(s) in	trafficking protein particle complex 11	25751	TRAPPC11	60684
 369852	Congenital neutropenia-myelofibrosis-nephromegaly syndrome	Assessed	Disease-causing germline mutation(s) in	vacuolar protein sorting 45 homolog	14579	VPS45	11311
 369861	Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	tRNA nucleotidyl transferase 1	17341	TRNT1	51095
-369894	Early infantile epileptic encephalopathy without suppression burst	Assessed	Disease-causing germline mutation(s) in	seizure threshold 2 homolog (mouse)	29040	SZT2	23334
 369897	Mitochondrial DNA depletion syndrome, encephalomyopathic form with variable craniofacial anomalies	Assessed	Disease-causing germline mutation(s) (loss of function) in	F-box and leucine rich repeat protein 4	13601	FBXL4	26235
 364028	X-linked intellectual disability due to GRIA3 anomalies	Assessed	Disease-causing germline mutation(s) (loss of function) in	glutamate ionotropic receptor AMPA type subunit 3	4573	GRIA3	2892
 1194	TMEM70-related mitochondrial encephalo-cardio-myopathy	Assessed	Disease-causing germline mutation(s) in	transmembrane protein 70	26050	TMEM70	54968
@@ -5100,6 +5161,8 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 356996	Intellectual disability-hypotonia-spasticity-sleep disorder syndrome	Assessed	Disease-causing germline mutation(s) in	ankyrin 3	494	ANK3	288
 357043	Amyotrophic lateral sclerosis type 4	Assessed	Disease-causing germline mutation(s) in	senataxin	445	SETX	23064
 64753	Spinocerebellar ataxia with axonal neuropathy type 2	Assessed	Disease-causing germline mutation(s) (loss of function) in	senataxin	445	SETX	23064
+357074	Autosomal recessive cutis laxa type 2, classic type	Assessed	Disease-causing germline mutation(s) in	ATPase H+ transporting V1 subunit E1	857	ATP6V1E1	529
+357074	Autosomal recessive cutis laxa type 2, classic type	Assessed	Disease-causing germline mutation(s) in	ATPase H+ transporting V1 subunit A	851	ATP6V1A	523
 352662	Corneal intraepithelial dyskeratosis-palmoplantar hyperkeratosis-laryngeal dyskeratosis syndrome	Assessed	Disease-causing germline mutation(s) in	NLR family pyrin domain containing 1	14374	NLRP1	22861
 352649	Brain dopamine-serotonin vesicular transport disease	Assessed	Disease-causing germline mutation(s) (loss of function) in	solute carrier family 18 member A2	10935	SLC18A2	6571
 352596	Progressive myoclonic epilepsy with dystonia	Assessed	Disease-causing germline mutation(s) (loss of function) in	TBC1 domain family member 24	29203	TBC1D24	57465
@@ -5128,7 +5191,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 353220	Familial primary localized cutaneous amyloidosis	Assessed	Disease-causing germline mutation(s) in	oncostatin M receptor	8507	OSMR	9180
 353220	Familial primary localized cutaneous amyloidosis	Assessed	Disease-causing germline mutation(s) in	interleukin 31 receptor A	18969	IL31RA	133396
 353217	Epileptic encephalopathy with global cerebral demyelination	Assessed	Disease-causing germline mutation(s) in	solute carrier family 25 member 12	10982	SLC25A12	8604
-352745	Oculocutaneous albinism type 7	Assessed	Disease-causing germline mutation(s) in	chromosome 10 open reading frame 11	23405	LRMDA	83938
+352745	Oculocutaneous albinism type 7	Assessed	Disease-causing germline mutation(s) in	leucine rich melanocyte differentiation associated	23405	LRMDA	83938
 353320	Pyruvate carboxylase deficiency, benign type	Assessed	Disease-causing germline mutation(s) in	pyruvate carboxylase	8636	PC	5091
 353308	Pyruvate carboxylase deficiency, infantile form	Assessed	Disease-causing germline mutation(s) in	pyruvate carboxylase	8636	PC	5091
 353314	Pyruvate carboxylase deficiency, severe neonatal type	Assessed	Disease-causing germline mutation(s) in	pyruvate carboxylase	8636	PC	5091
@@ -5165,6 +5228,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 293910	Familial isolated arrhythmogenic ventricular dysplasia, right dominant form	Assessed	Disease-causing germline mutation(s) in	plakophilin 2	9024	PKP2	5318
 293899	Familial isolated arrhythmogenic ventricular dysplasia, biventricular form	Assessed	Disease-causing germline mutation(s) in	plakophilin 2	9024	PKP2	5318
 293888	Familial isolated arrhythmogenic ventricular dysplasia, left dominant form	Assessed	Disease-causing germline mutation(s) in	plakophilin 2	9024	PKP2	5318
+54260	Left ventricular noncompaction	Assessed	Disease-causing germline mutation(s) in	plakophilin 2	9024	PKP2	5318
 293910	Familial isolated arrhythmogenic ventricular dysplasia, right dominant form	Assessed	Disease-causing germline mutation(s) in	transforming growth factor beta 3	11769	TGFB3	7043
 293899	Familial isolated arrhythmogenic ventricular dysplasia, biventricular form	Assessed	Disease-causing germline mutation(s) in	transforming growth factor beta 3	11769	TGFB3	7043
 293888	Familial isolated arrhythmogenic ventricular dysplasia, left dominant form	Assessed	Disease-causing germline mutation(s) in	transforming growth factor beta 3	11769	TGFB3	7043
@@ -5182,6 +5246,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 293864	Hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome	Assessed	Disease-causing germline mutation(s) in	regulatory factor X6	21478	RFX6	222546
 293843	3MC syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	mannan binding lectin serine peptidase 1	6901	MASP1	5648
 293843	3MC syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	collectin subfamily member 11	17213	COLEC11	78989
+293843	3MC syndrome	Assessed	Disease-causing germline mutation(s) in	collectin subfamily member 10	2220	COLEC10	10584
 289891	Hypermethioninemia due to glycine N-methyltransferase deficiency	Assessed	Disease-causing germline mutation(s) (loss of function) in	glycine N-methyltransferase	4415	GNMT	27232
 289863	Atypical glycine encephalopathy	Assessed	Disease-causing germline mutation(s) (loss of function) in	aminomethyltransferase	473	AMT	275
 289857	Neonatal glycine encephalopathy	Assessed	Disease-causing germline mutation(s) (loss of function) in	aminomethyltransferase	473	AMT	275
@@ -5202,6 +5267,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 289586	Exfoliative ichthyosis	Assessed	Disease-causing germline mutation(s) (loss of function) in	serpin family B member 8	8952	SERPINB8	5271
 811	Shwachman-Diamond syndrome	Assessed	Disease-causing germline mutation(s) in	SBDS ribosome assembly guanine nucleotide exchange factor	19440	SBDS	51119
 88	Idiopathic aplastic anemia	Assessed	Major susceptibility factor in	SBDS ribosome assembly guanine nucleotide exchange factor	19440	SBDS	51119
+811	Shwachman-Diamond syndrome	Assessed	Disease-causing germline mutation(s) in	DnaJ heat shock protein family (Hsp40) member C21	27030	DNAJC21	134218
 428	Autosomal dominant hypocalcemia	Assessed	Disease-causing germline mutation(s) (gain of function) in	G protein subunit alpha 11	4379	GNA11	2767
 39044	Uveal melanoma	Assessed	Disease-causing somatic mutation(s) in	G protein subunit alpha 11	4379	GNA11	2767
 79483	Phakomatosis cesioflammea	Assessed	Disease-causing somatic mutation(s) in	G protein subunit alpha 11	4379	GNA11	2767
@@ -5250,6 +5316,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 284247	Familial retinal arterial macroaneurysm	Assessed	Disease-causing germline mutation(s) in	insulin like growth factor binding protein 7	5476	IGFBP7	3490
 284271	Autosomal recessive cerebellar ataxia-psychomotor retardation syndrome	Assessed	Disease-causing germline mutation(s) in	synaptotagmin 14	23143	SYT14	255928
 284289	Adult-onset autosomal recessive cerebellar ataxia	Assessed	Disease-causing germline mutation(s) in	anoctamin 10	25519	ANO10	55129
+284339	Pontocerebellar hypoplasia type 7	Assessed	Disease-causing germline mutation(s) (loss of function) in	target of EGR1, member 1 (nuclear)	15954	TOE1	114034
 284102	Response to antiviral treatment in hepatitis C	Assessed	Biomarker tested in	interferon lambda 3	18365	IFNL3	282617
 284102	Response to antiviral treatment in hepatitis C	Assessed	Biomarker tested in	interferon lambda 4 (gene/pseudogene)	44480	IFNL4	101180976
 284113	Susceptibility to adverse reaction due to mercaptopurine	Assessed	Biomarker tested in	inosine triphosphatase	6176	ITPA	3704
@@ -5429,8 +5496,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 457265	Progressive myoclonic epilepsy type 9	Assessed	Disease-causing germline mutation(s) in	lamin B2	6638	LMNB2	84823
 79087	Partial acquired lipodystrophy	Assessed	Major susceptibility factor in	lamin B2	6638	LMNB2	84823
 457279	Intellectual disability-macrocephaly-hypotonia-behavioral abnormalities syndrome	Assessed	Disease-causing germline mutation(s) in	protein phosphatase 2 regulatory subunit B'delta	9312	PPP2R5D	5528
-457260	X-linked intellectual disability-hypotonia-movement disorder syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	DEAD-box helicase 3, X-linked	2745	DDX3X	1654
-99861	Precursor T-cell acute lymphoblastic leukemia	Assessed	Part of a fusion gene in	DEAD-box helicase 3, X-linked	2745	DDX3X	1654
 457240	X-linked intellectual disability-short stature-overweight syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	THO complex 2	19073	THOC2	57187
 457246	Clear cell sarcoma of kidney	Assessed	Part of a fusion gene in	iroquois homeobox 2	14359	IRX2	153572
 457395	Progressive spondyloepimetaphyseal dysplasia-short stature-short fourth metatarsals-intellectual disability syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	ring finger and SPRY domain containing 1	29420	RSPRY1	89970
@@ -5444,6 +5509,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 457223	Syndromic sensorineural deafness due to combined oxidative phosphorylation defect	Assessed	Disease-causing germline mutation(s) in	mitochondrial ribosomal protein S7	14499	MRPS7	51081
 457212	Progressive essential tremor-speech impairment-facial dysmorphism-intellectual disability-abnormal behavior syndrome	Assessed	Disease-causing germline mutation(s) in	solute carrier family 6 member 17	31399	SLC6A17	388662
 317	Erythrokeratodermia variabilis	Assessed	Disease-causing germline mutation(s) in	gap junction protein beta 4	4286	GJB4	127534
+317	Erythrokeratodermia variabilis	Assessed	Disease-causing germline mutation(s) (loss of function) in	3-ketodihydrosphingosine reductase	4021	KDSR	2531
 632	Short stature due to isolated growth hormone deficiency with X-linked hypogammaglobulinemia	Assessed	Disease-causing germline mutation(s) in	E74 like ETS transcription factor 4	3319	ELF4	2000
 248	Autosomal recessive hypohidrotic ectodermal dysplasia	Assessed	Disease-causing germline mutation(s) in	ectodysplasin A receptor	2895	EDAR	10913
 1810	Autosomal dominant hypohidrotic ectodermal dysplasia	Assessed	Disease-causing germline mutation(s) in	ectodysplasin A receptor	2895	EDAR	10913
@@ -5451,7 +5517,11 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 1810	Autosomal dominant hypohidrotic ectodermal dysplasia	Assessed	Disease-causing germline mutation(s) in	EDAR associated death domain	14341	EDARADD	128178
 99798	Oligodontia	Assessed	Disease-causing germline mutation(s) in	EDAR associated death domain	14341	EDARADD	128178
 1810	Autosomal dominant hypohidrotic ectodermal dysplasia	Assessed	Disease-causing germline mutation(s) in	TNF receptor associated factor 6	12036	TRAF6	7189
+1810	Autosomal dominant hypohidrotic ectodermal dysplasia	Assessed	Disease-causing germline mutation(s) in	keratinocyte differentiation factor 1	26624	KDF1	126695
 2032	Idiopathic pulmonary fibrosis	Assessed	Major susceptibility factor in	surfactant protein A1	10798	SFTPA1	653509
+2032	Idiopathic pulmonary fibrosis	Not yet assessed	Candidate gene tested in	ATP binding cassette subfamily A member 3	33	ABCA3	21
+440402	Interstitial lung disease due to ABCA3 deficiency	Assessed	Disease-causing germline mutation(s) (loss of function) in	ATP binding cassette subfamily A member 3	33	ABCA3	21
+70587	Infant acute respiratory distress syndrome	Not yet assessed	Candidate gene tested in	ATP binding cassette subfamily A member 3	33	ABCA3	21
 2032	Idiopathic pulmonary fibrosis	Assessed	Major susceptibility factor in	surfactant protein A2	10799	SFTPA2	729238
 2032	Idiopathic pulmonary fibrosis	Assessed	Major susceptibility factor in	family with sequence similarity 13 member A	19367	FAM13A	10144
 2032	Idiopathic pulmonary fibrosis	Assessed	Major susceptibility factor in	STN1, CST complex subunit	26200	STN1	79991
@@ -5534,7 +5604,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 404443	Tall stature-intellectual disability-facial dysmorphism syndrome	Assessed	Disease-causing germline mutation(s) in	DNA methyltransferase 3 alpha	2978	DNMT3A	1788
 404448	ADNP-related multiple congenital anomalies-intellectual disability-autism spectrum disorder	Assessed	Disease-causing germline mutation(s) in	activity dependent neuroprotector homeobox	15766	ADNP	23394
 404437	Diffuse cerebral and cerebellar atrophy-intractable seizures-progressive microcephaly syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	glutaminyl-tRNA synthetase	9751	QARS	5859
-404440	Intellectual disability-facial dysmorphism syndrome due to SETD5 haploinsufficiency	Assessed	Disease-causing germline mutation(s) (loss of function) in	SET domain containing 5	25566	SETD5	55209
 404511	Clear cell papillary renal cell carcinoma	Assessed	Major susceptibility factor in	polybromo 1	30064	PBRM1	55193
 404499	Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to KIAA0226 deficiency	Assessed	Disease-causing germline mutation(s) in	RUN and cysteine rich domain containing beclin 1 interacting protein	28991	RUBCN	9711
 404493	Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to TUD deficiency	Assessed	Disease-causing germline mutation(s) in	tyrosyl-DNA phosphodiesterase 2	17768	TDP2	51567
@@ -5603,6 +5672,8 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 394529	Multiple acyl-CoA dehydrogenase deficiency, severe neonatal type	Assessed	Disease-causing germline mutation(s) in	electron transfer flavoprotein beta subunit	3482	ETFB	2109
 394532	Multiple acyl-CoA dehydrogenase deficiency, mild type	Assessed	Disease-causing germline mutation(s) in	electron transfer flavoprotein dehydrogenase	3483	ETFDH	2110
 394529	Multiple acyl-CoA dehydrogenase deficiency, severe neonatal type	Assessed	Disease-causing germline mutation(s) in	electron transfer flavoprotein dehydrogenase	3483	ETFDH	2110
+394532	Multiple acyl-CoA dehydrogenase deficiency, mild type	Assessed	Disease-causing germline mutation(s) (loss of function) in	flavin adenine dinucleotide synthetase 1	24671	FLAD1	80308
+394532	Multiple acyl-CoA dehydrogenase deficiency, mild type	Assessed	Disease-causing germline mutation(s) in	solute carrier family 25 member 32	29683	SLC25A32	81034
 399808	Male infertility with teratozoospermia due to single gene mutation	Assessed	Disease-causing germline mutation(s) in	nanos C2HC-type zinc finger 1	23044	NANOS1	340719
 399805	Male infertility with azoospermia or oligozoospermia due to single gene mutation	Assessed	Disease-causing germline mutation(s) in	nanos C2HC-type zinc finger 1	23044	NANOS1	340719
 399805	Male infertility with azoospermia or oligozoospermia due to single gene mutation	Assessed	Major susceptibility factor in	spermatogenesis and oogenesis specific basic helix-loop-helix 1	27845	SOHLH1	402381
@@ -5623,8 +5694,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 435934	COG2-CDG	Assessed	Disease-causing germline mutation(s) (loss of function) in	component of oligomeric golgi complex 2	6546	COG2	22796
 435998	Autosomal recessive intermediate Charcot-Marie-Tooth disease type D	Assessed	Disease-causing germline mutation(s) (loss of function) in	cytochrome c oxidase subunit 6A1	2277	COX6A1	1337
 436151	Intellectual disability-expressive aphasia-facial dysmorphism syndrome	Assessed	Disease-causing germline mutation(s) in	zinc finger MYND-type containing 11	16966	ZMYND11	10771
-436166	Periodic fever-infantile enterocolitis-autoinflammatory syndrome	Assessed	Disease-causing germline mutation(s) (gain of function) in	NLR family CARD domain containing 4	16412	NLRC4	58484
-47045	Familial cold urticaria	Assessed	Disease-causing germline mutation(s) in	NLR family CARD domain containing 4	16412	NLRC4	58484
 436182	Microcephalic primordial dwarfism-insulin resistance syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	NSE2/MMS21 homolog, SMC5-SMC6 complex SUMO ligase	26513	NSMCE2	286053
 436182	Microcephalic primordial dwarfism-insulin resistance syndrome	Assessed	Disease-causing germline mutation(s) in	X-ray repair cross complementing 4	12831	XRCC4	7518
 99812	LIG4 syndrome	Not yet assessed	Candidate gene tested in	X-ray repair cross complementing 4	12831	XRCC4	7518
@@ -5645,7 +5714,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 439212	Early-onset myopathy-areflexia-respiratory distress-dysphagia syndrome	Assessed	Disease-causing germline mutation(s) in	multiple EGF like domains 10	29634	MEGF10	84466
 439854	Fatal congenital hypertrophic cardiomyopathy due to glycogen storage disease	Assessed	Disease-causing germline mutation(s) in	protein kinase AMP-activated non-catalytic subunit gamma 2	9386	PRKAG2	51422
 439897	Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	kinesin family member 14	19181	KIF14	9928
-440402	Interstitial lung disease due to ABCA3 deficiency	Assessed	Disease-causing germline mutation(s) (loss of function) in	ATP binding cassette subfamily A member 3	33	ABCA3	21
 440713	Isolated sedoheptulokinase deficiency	Assessed	Disease-causing germline mutation(s) in	sedoheptulokinase	1492	SHPK	23729
 440437	Familial colorectal cancer Type X	Assessed	Disease-causing germline mutation(s) in	ribosomal protein S20	10405	RPS20	6224
 440706	Ribose-5-P isomerase deficiency	Assessed	Disease-causing germline mutation(s) in	ribose 5-phosphate isomerase A	10297	RPIA	22934
@@ -5683,15 +5751,16 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 95159	Hepatoerythropoietic porphyria	Assessed	Disease-causing germline mutation(s) in	uroporphyrinogen decarboxylase	12591	UROD	7389
 443073	Charcot-Marie-Tooth disease type 2S	Assessed	Disease-causing germline mutation(s) (loss of function) in	immunoglobulin mu binding protein 2	5542	IGHMBP2	3508
 98920	Spinal muscular atrophy with respiratory distress type 1	Assessed	Disease-causing germline mutation(s) in	immunoglobulin mu binding protein 2	5542	IGHMBP2	3508
+442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) in	seizure threshold 2 homolog (mouse)	29040	SZT2	23334
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) (loss of function) in	NECAP endocytosis associated 1	24539	NECAP1	25977
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) (gain of function) in	hyperpolarization activated cyclic nucleotide gated potassium channel 1	4845	HCN1	348980
-442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) in	solute carrier family 13 member 5	23089	SLC13A5	284111
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) in	potassium voltage-gated channel subfamily B member 1	6231	KCNB1	3745
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) (loss of function) in	potassium voltage-gated channel subfamily A member 2	6220	KCNA2	3737
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) (gain of function) in	potassium voltage-gated channel subfamily A member 2	6220	KCNA2	3737
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) (gain of function) in	fibroblast growth factor 12	3668	FGF12	2257
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) (loss of function) in	ubiquitin like modifier activating enzyme 5	23230	UBA5	79876
 442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) (gain of function) in	glutamate ionotropic receptor NMDA type subunit 2D	4588	GRIN2D	2906
+442835	Undetermined early-onset epileptic encephalopathy	Assessed	Disease-causing germline mutation(s) in	adaptor related protein complex 3 beta 2 subunit	567	AP3B2	8120
 443197	X-linked erythropoietic protoporphyria	Assessed	Disease-causing germline mutation(s) (gain of function) in	5'-aminolevulinate synthase 2	397	ALAS2	212
 75563	X-linked sideroblastic anemia	Assessed	Disease-causing germline mutation(s) in	5'-aminolevulinate synthase 2	397	ALAS2	212
 298	Mitochondrial neurogastrointestinal encephalomyopathy	Assessed	Disease-causing germline mutation(s) (loss of function) in	thymidine phosphorylase	3148	TYMP	1890
@@ -5714,6 +5783,10 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 130	Brugada syndrome	Assessed	Disease-causing germline mutation(s) in	calcium voltage-gated channel subunit alpha1 C	1390	CACNA1C	775
 65283	Timothy syndrome	Assessed	Disease-causing germline mutation(s) (gain of function) in	calcium voltage-gated channel subunit alpha1 C	1390	CACNA1C	775
 130	Brugada syndrome	Assessed	Disease-causing germline mutation(s) in	calcium voltage-gated channel auxiliary subunit beta 2	1402	CACNB2	783
+130	Brugada syndrome	Not yet assessed	Candidate gene tested in	potassium voltage-gated channel subfamily E regulatory subunit 5	6241	KCNE5	23630
+86818	Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome	Not yet assessed	Role in the phenotype of	potassium voltage-gated channel subfamily E regulatory subunit 5	6241	KCNE5	23630
+130	Brugada syndrome	Not yet assessed	Candidate gene tested in	A-kinase anchoring protein 9	379	AKAP9	10142
+101016	Romano-Ward syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	A-kinase anchoring protein 9	379	AKAP9	10142
 130	Brugada syndrome	Assessed	Disease-causing germline mutation(s) in	glycerol-3-phosphate dehydrogenase 1-like	28956	GPD1L	23171
 130	Brugada syndrome	Assessed	Disease-causing germline mutation(s) in	sodium voltage-gated channel beta subunit 3	20665	SCN3B	55800
 334	Familial atrial fibrillation	Assessed	Disease-causing germline mutation(s) (loss of function) in	sodium voltage-gated channel beta subunit 3	20665	SCN3B	55800
@@ -5722,6 +5795,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 130	Brugada syndrome	Assessed	Disease-causing germline mutation(s) (gain of function) in	potassium voltage-gated channel subfamily D member 3	6239	KCND3	3752
 98772	Spinocerebellar ataxia type 19/22	Assessed	Disease-causing germline mutation(s) in	potassium voltage-gated channel subfamily D member 3	6239	KCND3	3752
 130	Brugada syndrome	Assessed	Disease-causing germline mutation(s) in	sarcolemma associated protein	16643	SLMAP	7871
+130	Brugada syndrome	Not yet assessed	Candidate gene tested in	RAN guanine nucleotide release factor	17679	RANGRF	29098
 277	Severe combined immunodeficiency due to adenosine deaminase deficiency	Assessed	Disease-causing germline mutation(s) in	adenosine deaminase	186	ADA	100
 39041	Omenn syndrome	Assessed	Disease-causing germline mutation(s) in	adenosine deaminase	186	ADA	100
 443811	PGM3-CDG	Assessed	Disease-causing germline mutation(s) in	phosphoglucomutase 3	8907	PGM3	5238
@@ -5802,8 +5876,11 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 435438	Progressive myoclonic epilepsy type 7	Assessed	Disease-causing germline mutation(s) (loss of function) in	potassium voltage-gated channel subfamily C member 1	6233	KCNC1	3746
 434179	Orofaciodigital syndrome type 14	Assessed	Disease-causing germline mutation(s) in	C2 calcium dependent domain containing 3	24564	C2CD3	26005
 26793	Very long chain acyl-CoA dehydrogenase deficiency	Assessed	Disease-causing germline mutation(s) in	acyl-CoA dehydrogenase, very long chain	92	ACADVL	37
+29072	Hereditary pheochromocytoma-paraganglioma	Assessed	Disease-causing germline mutation(s) (loss of function) in	kinesin family member 1B	16636	KIF1B	23095
+99946	Autosomal dominant Charcot-Marie-Tooth disease type 2A1	Assessed	Disease-causing germline mutation(s) (loss of function) in	kinesin family member 1B	16636	KIF1B	23095
 29072	Hereditary pheochromocytoma-paraganglioma	Assessed	Disease-causing germline mutation(s) in	succinate dehydrogenase complex assembly factor 2	26034	SDHAF2	54949
 29072	Hereditary pheochromocytoma-paraganglioma	Assessed	Disease-causing germline mutation(s) in	MYC associated factor X	6913	MAX	4149
+29072	Hereditary pheochromocytoma-paraganglioma	Assessed	Disease-causing germline mutation(s) in	malate dehydrogenase 2	6971	MDH2	4191
 28378	Tyrosinemia type 2	Assessed	Disease-causing germline mutation(s) (loss of function) in	tyrosine aminotransferase	11573	TAT	6898
 29073	Multiple myeloma	Assessed	Major susceptibility factor in	cyclin D1	1582	CCND1	595
 67038	B-cell chronic lymphocytic leukemia	Assessed	Part of a fusion gene in	cyclin D1	1582	CCND1	595
@@ -5834,6 +5911,13 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 603	Distal myopathy, Welander type	Assessed	Disease-causing germline mutation(s) (gain of function) in	TIA1 cytotoxic granule associated RNA binding protein	11802	TIA1	7072
 588	Muscle-eye-brain disease	Assessed	Disease-causing germline mutation(s) (loss of function) in	beta-1,3-N-acetylgalactosaminyltransferase 2	28596	B3GALNT2	148789
 899	Walker-Warburg syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	beta-1,3-N-acetylgalactosaminyltransferase 2	28596	B3GALNT2	148789
+899	Walker-Warburg syndrome	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
+481986	Familial schizencephaly	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
+477749	Pontine autosomal dominant microangiopathy with leukoencephalopathy	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
+75326	Retinal arterial tortuosity	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
+73229	Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
+36383	COL4A1-related familial vascular leukoencephalopathy	Not yet assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
+99810	Familial porencephaly	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 1 chain	2202	COL4A1	1282
 899	Walker-Warburg syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	protein O-linked mannose N-acetylglucosaminyltransferase 2 (beta 1,4-)	25902	POMGNT2	84892
 899	Walker-Warburg syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	transmembrane protein 5	13530	TMEM5	10329
 899	Walker-Warburg syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	beta-1,4-glucuronyltransferase 1	15685	B4GAT1	11041
@@ -5979,6 +6063,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 67046	3-methylglutaconic aciduria type 1	Assessed	Disease-causing germline mutation(s) (loss of function) in	AU RNA binding methylglutaconyl-CoA hydratase	890	AUH	549
 67047	3-methylglutaconic aciduria type 3	Assessed	Disease-causing germline mutation(s) in	OPA3, outer mitochondrial membrane lipid metabolism regulator	8142	OPA3	80207
 67036	Autosomal dominant optic atrophy and cataract	Assessed	Disease-causing germline mutation(s) in	OPA3, outer mitochondrial membrane lipid metabolism regulator	8142	OPA3	80207
+67047	3-methylglutaconic aciduria type 3	Assessed	Disease-causing germline mutation(s) in	chromosome 19 open reading frame 70	33702	C19orf70	125988
 67042	Late-onset retinal degeneration	Assessed	Disease-causing germline mutation(s) in	C1q and tumor necrosis factor related protein 5	14344	C1QTNF5	114902
 67041	Hyaluronidase deficiency	Assessed	Disease-causing germline mutation(s) in	hyaluronoglucosaminidase 1	5320	HYAL1	3373
 67037	Squamous cell carcinoma of head and neck	Assessed	Disease-causing somatic mutation(s) in	inhibitor of growth family member 1	6062	ING1	3621
@@ -6010,7 +6095,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 64280	Childhood absence epilepsy	Assessed	Disease-causing germline mutation(s) in	calcium voltage-gated channel subunit alpha1 H	1395	CACNA1H	8912
 63446	Acrocapitofemoral dysplasia	Assessed	Disease-causing germline mutation(s) in	indian hedgehog	5956	IHH	3549
 93388	Brachydactyly type A1	Assessed	Disease-causing germline mutation(s) in	indian hedgehog	5956	IHH	3549
-59303	Ichthyosis-hypotrichosis-sclerosing cholangitis syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	claudin 1	2032	CLDN1	9076
+59303	Neonatal ichthyosis-sclerosing cholangitis syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	claudin 1	2032	CLDN1	9076
 59306	McLeod neuroacanthocytosis syndrome	Assessed	Disease-causing germline mutation(s) in	X-linked Kx blood group	12811	XK	7504
 60025	Pulmonary alveolar microlithiasis	Assessed	Disease-causing germline mutation(s) (loss of function) in	solute carrier family 34 member 2	11020	SLC34A2	10568
 59181	Sorsby's fundus dystrophy	Assessed	Disease-causing germline mutation(s) in	TIMP metallopeptidase inhibitor 3	11822	TIMP3	7078
@@ -6084,7 +6169,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 35120	Hemolytic anemia due to pyrimidine 5' nucleotidase deficiency	Assessed	Disease-causing germline mutation(s) in	5'-nucleotidase, cytosolic IIIA	17820	NT5C3A	51251
 35107	Desmosterolosis	Assessed	Disease-causing germline mutation(s) in	24-dehydrocholesterol reductase	2859	DHCR24	1718
 36387	Generalized epilepsy with febrile seizures-plus	Assessed	Disease-causing germline mutation(s) in	syntaxin 1B	18539	STX1B	112755
-36367	Distal monosomy 1q	Not yet assessed	Role in the phenotype of	zinc finger and BTB domain containing 18	13030	ZBTB18	10472
+36367	Distal monosomy 1q	Assessed	Role in the phenotype of	zinc finger and BTB domain containing 18	13030	ZBTB18	10472
 36386	Hereditary sensory and autonomic neuropathy type 1	Assessed	Disease-causing germline mutation(s) in	atlastin GTPase 1	11231	ATL1	51062
 100984	Autosomal dominant spastic paraplegia type 3	Assessed	Disease-causing germline mutation(s) in	atlastin GTPase 1	11231	ATL1	51062
 36386	Hereditary sensory and autonomic neuropathy type 1	Assessed	Disease-causing germline mutation(s) in	serine palmitoyltransferase long chain base subunit 1	11277	SPTLC1	10558
@@ -6186,7 +6271,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 88637	Hypomyelination-hypogonadotropic hypogonadism-hypodontia syndrome	Assessed	Disease-causing germline mutation(s) in	RNA polymerase III subunit B	30348	POLR3B	55703
 88639	Neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency	Assessed	Disease-causing germline mutation(s) in	3-hydroxyisobutyryl-CoA hydrolase	4908	HIBCH	26275
 88635	Myopathy due to calsequestrin and SERCA1 protein overload	Assessed	Disease-causing germline mutation(s) in	calsequestrin 1	1512	CASQ1	844
-88621	Ichthyosis prematurity syndrome	Assessed	Disease-causing germline mutation(s) in	solute carrier family 27 member 4	10998	SLC27A4	10999
+88621	Ichthyosis-prematurity syndrome	Assessed	Disease-causing germline mutation(s) in	solute carrier family 27 member 4	10998	SLC27A4	10999
 88628	Posterior column ataxia-retinitis pigmentosa syndrome	Assessed	Disease-causing germline mutation(s) in	feline leukemia virus subgroup C cellular receptor 1	24682	FLVCR1	28982
 88629	Tritanopia	Assessed	Disease-causing germline mutation(s) in	opsin 1, short wave sensitive	1012	OPN1SW	611
 88620	Isolated congenital anosmia	Assessed	Disease-causing germline mutation(s) in	cyclic nucleotide gated channel alpha 2	2149	CNGA2	1260
@@ -6214,6 +6299,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 88616	Autosomal recessive non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	decapping enzyme, scavenger	29812	DCPS	28960
 88616	Autosomal recessive non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) (loss of function) in	TRAF2 and NCK interacting kinase	30765	TNIK	23043
 88616	Autosomal recessive non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) (loss of function) in	membrane bound O-acyltransferase domain containing 7	15505	MBOAT7	79143
+88616	Autosomal recessive non-syndromic intellectual disability	Assessed	Disease-causing germline mutation(s) in	chromosome 12 open reading frame 4	1184	C12orf4	57102
 87503	Mal de Meleda	Assessed	Disease-causing germline mutation(s) in	secreted LY6/PLAUR domain containing 1	18746	SLURP1	57152
 88949	Autosomal dominant medullary cystic kidney disease without hyperuricemia	Assessed	Disease-causing germline mutation(s) in	mucin 1, cell surface associated	7508	MUC1	4582
 88939	Pseudohypoaldosteronism type 2B	Assessed	Disease-causing germline mutation(s) in	WNK lysine deficient protein kinase 4	14544	WNK4	65266
@@ -6246,6 +6332,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 93206	Idiopathic steroid-sensitive nephrotic syndrome with focal segmental hyalinosis	Not yet assessed	Disease-causing germline mutation(s) in	epithelial membrane protein 2	3334	EMP2	2013
 93100	Renal agenesis, unilateral	Assessed	Disease-causing germline mutation(s) in	uroplakin 3A	12580	UPK3A	7380
 93100	Renal agenesis, unilateral	Assessed	Disease-causing germline mutation(s) in	dual serine/threonine and tyrosine protein kinase	29043	DSTYK	25778
+101003	Autosomal recessive spastic paraplegia type 23	Assessed	Disease-causing germline mutation(s) in	dual serine/threonine and tyrosine protein kinase	29043	DSTYK	25778
 93160	Hypocalcemic vitamin D-resistant rickets	Assessed	Disease-causing germline mutation(s) in	vitamin D (1,25- dihydroxyvitamin D3) receptor	12679	VDR	7421
 93114	Autosomal dominant intermediate Charcot-Marie-Tooth disease type E	Assessed	Disease-causing germline mutation(s) in	inverted formin, FH2 and WH2 domain containing	23791	INF2	64423
 93213	Familial idiopathic steroid-resistant nephrotic syndrome with focal segmental hyalinosis	Assessed	Disease-causing germline mutation(s) in	inverted formin, FH2 and WH2 domain containing	23791	INF2	64423
@@ -6326,12 +6413,13 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) (loss of function) in	epidermal growth factor receptor pathway substrate 8	3420	EPS8	2059
 90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) (loss of function) in	adenylate cyclase 1	232	ADCY1	107
 90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) in	chloride intracellular channel 5	13517	CLIC5	53405
-90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) in	family with sequence similarity 65 member B	13872	RIPOR2	9750
+90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) in	RHO family interacting cell polarization regulator 2	13872	RIPOR2	9750
 90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) in	doublecortin domain containing 2	18141	DCDC2	51473
 84081	Senior-Boichis syndrome	Assessed	Disease-causing germline mutation(s) in	doublecortin domain containing 2	18141	DCDC2	51473
 90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Modifying germline mutation in	ATPase plasma membrane Ca2+ transporting 2	815	ATP2B2	491
 90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) (loss of function) in	sphingosine-1-phosphate receptor 2	3169	S1PR2	9294
 90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) (loss of function) in	cell division cycle 14A	1718	CDC14A	8556
+90636	Autosomal recessive non-syndromic sensorineural deafness type DFNB	Assessed	Disease-causing germline mutation(s) in	B double prime 1, subunit of RNA polymerase III transcription initiation factor IIIB	13652	BDP1	55814
 90641	Mitochondrial non-syndromic sensorineural deafness	Assessed	Modifying germline mutation in	transcription factor B1, mitochondrial	17037	TFB1M	51106
 91387	Familial thoracic aortic aneurysm and aortic dissection	Assessed	Disease-causing germline mutation(s) in	transforming growth factor beta 2	11768	TGFB2	7042
 91387	Familial thoracic aortic aneurysm and aortic dissection	Assessed	Disease-causing germline mutation(s) in	myosin light chain kinase	7590	MYLK	4638
@@ -6410,7 +6498,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 85193	Idiopathic juvenile osteoporosis	Assessed	Major susceptibility factor in	dickkopf WNT signaling pathway inhibitor 1	2891	DKK1	22943
 85194	Spondylo-ocular syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	xylosyltransferase 2	15517	XYLT2	64132
 85202	Keutel syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	matrix Gla protein	7060	MGP	4256
-85277	X-linked intellectual disability, Cantagrel type	Assessed	Disease-causing germline mutation(s) (loss of function) in	KIAA2022	29433	NEXMIF	340533
+85277	X-linked intellectual disability, Cantagrel type	Assessed	Disease-causing germline mutation(s) (loss of function) in	neurite extension and migration factor	29433	NEXMIF	340533
 85278	Christianson syndrome	Assessed	Disease-causing germline mutation(s) in	solute carrier family 9 member A6	11079	SLC9A6	10479
 85279	Syndromic X-linked intellectual disability due to JARID1C mutation	Assessed	Disease-causing germline mutation(s) in	lysine demethylase 5C	11114	KDM5C	8242
 85287	X-linked intellectual disability, Siderius type	Assessed	Disease-causing germline mutation(s) in	PHD finger protein 8	20672	PHF8	23133
@@ -6438,7 +6526,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 86816	Congenital analbuminemia	Assessed	Disease-causing germline mutation(s) in	albumin	399	ALB	213
 86817	Hemolytic anemia due to adenylate kinase deficiency	Assessed	Disease-causing germline mutation(s) in	adenylate kinase 1	361	AK1	203
 86818	Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome	Not yet assessed	Role in the phenotype of	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region gene 1	467	AMMECR1	9949
-86818	Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome	Not yet assessed	Role in the phenotype of	potassium voltage-gated channel subfamily E regulatory subunit 5	6241	KCNE5	23630
 86841	Myelodysplastic syndrome associated with isolated del(5q) chromosome abnormality	Assessed	Role in the phenotype of	ribosomal protein S14	10387	RPS14	6208
 79506	Cholesterol-ester transfer protein deficiency	Assessed	Disease-causing germline mutation(s) in	cholesteryl ester transfer protein	1869	CETP	1071
 79506	Cholesterol-ester transfer protein deficiency	Assessed	Disease-causing germline mutation(s) (loss of function) in	apolipoprotein C3	610	APOC3	345
@@ -6525,6 +6612,8 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 93591	Infantile nephronophthisis	Assessed	Disease-causing germline mutation(s) in	ankyrin repeat and sterile alpha motif domain containing 6	26724	ANKS6	203286
 93592	Juvenile nephronophthisis	Assessed	Disease-causing germline mutation(s) in	ankyrin repeat and sterile alpha motif domain containing 6	26724	ANKS6	203286
 93591	Infantile nephronophthisis	Assessed	Disease-causing germline mutation(s) in	centrosomal protein 83	17966	CEP83	51134
+93592	Juvenile nephronophthisis	Assessed	Disease-causing germline mutation(s) (loss of function) in	mitogen-activated protein kinase binding protein 1	29536	MAPKBP1	23005
+93589	Late-onset nephronophthisis	Assessed	Disease-causing germline mutation(s) (loss of function) in	mitogen-activated protein kinase binding protein 1	29536	MAPKBP1	23005
 93589	Late-onset nephronophthisis	Assessed	Disease-causing germline mutation(s) in	X-prolyl aminopeptidase 3	28052	XPNPEP3	63929
 93598	Primary hyperoxaluria type 1	Assessed	Disease-causing germline mutation(s) in	alanine-glyoxylate aminotransferase	341	AGXT	189
 93578	Atypical hemolytic-uremic syndrome with B factor anomaly	Assessed	Disease-causing germline mutation(s) in	complement factor B	1037	CFB	629
@@ -6592,6 +6681,7 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 98913	Postsynaptic congenital myasthenic syndromes	Assessed	Disease-causing germline mutation(s) (gain of function) in	cholinergic receptor nicotinic beta 1 subunit	1961	CHRNB1	1140
 98913	Postsynaptic congenital myasthenic syndromes	Assessed	Disease-causing germline mutation(s) (loss of function) in	cholinergic receptor nicotinic epsilon subunit	1966	CHRNE	1145
 98913	Postsynaptic congenital myasthenic syndromes	Assessed	Disease-causing germline mutation(s) (gain of function) in	cholinergic receptor nicotinic epsilon subunit	1966	CHRNE	1145
+98913	Postsynaptic congenital myasthenic syndromes	Assessed	Disease-causing germline mutation(s) in	adenylate kinase 9	33814	AK9	221264
 98915	Synaptic congenital myasthenic syndromes	Assessed	Disease-causing germline mutation(s) in	collagen like tail subunit of asymmetric acetylcholinesterase	2226	COLQ	8292
 98908	Neutral lipid storage myopathy	Assessed	Disease-causing germline mutation(s) in	patatin like phospholipase domain containing 2	30802	PNPLA2	57104
 98907	Dorfman-Chanarin disease	Assessed	Disease-causing germline mutation(s) in	abhydrolase domain containing 5	21396	ABHD5	51099
@@ -6687,8 +6777,8 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 101068	Congenital stromal corneal dystrophy	Assessed	Disease-causing germline mutation(s) in	decorin	2705	DCN	1634
 101063	Situs inversus totalis	Assessed	Disease-causing germline mutation(s) in	cilia and flagella associated protein 52	16053	CFAP52	146845
 101063	Situs inversus totalis	Assessed	Disease-causing germline mutation(s) in	NME/NM23 family member 7	20461	NME7	29922
+101063	Situs inversus totalis	Assessed	Disease-causing germline mutation(s) in	ankyrin repeat and sterile alpha motif domain containing 3	29422	ANKS3	124401
 101016	Romano-Ward syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	ankyrin 2	493	ANK2	287
-101016	Romano-Ward syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	A-kinase anchoring protein 9	379	AKAP9	10142
 101016	Romano-Ward syndrome	Assessed	Disease-causing germline mutation(s) (gain of function) in	syntrophin alpha 1	11167	SNTA1	6640
 101016	Romano-Ward syndrome	Assessed	Modifying germline mutation in	nitric oxide synthase 1 adaptor protein	16859	NOS1AP	9722
 101028	Transaldolase deficiency	Assessed	Disease-causing germline mutation(s) in	transaldolase 1	11559	TALDO1	6888
@@ -6704,12 +6794,13 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 100973	FRAXE intellectual disability	Assessed	Disease-causing germline mutation(s) in	AF4/FMR2 family member 2	3776	AFF2	2334
 100974	FRAXF syndrome	Assessed	Disease-causing germline mutation(s) in	transmembrane protein 185A	17125	TMEM185A	84548
 100057	Renin-angiotensin-aldosterone system-blocker-induced angioedema	Not yet assessed	Major susceptibility factor in	X-prolyl aminopeptidase 2	12823	XPNPEP2	7512
+100075	Gastric neuroendocrine tumor	Not yet assessed	Candidate gene tested in	death domain associated protein	2681	DAXX	1616
 100032	Hypocalcified amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) in	family with sequence similarity 83 member H	24797	FAM83H	286077
 100032	Hypocalcified amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) in	solute carrier family 24 member 4	10978	SLC24A4	123041
 100033	Hypomaturation amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) in	solute carrier family 24 member 4	10978	SLC24A4	123041
 100031	Hypoplastic amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) in	enamelin	3344	ENAM	10117
 100031	Hypoplastic amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) in	ameloblastin	452	AMBN	258
-100031	Hypoplastic amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) (loss of function) in	acid phosphatase, testicular	14376	ACPT	93650
+100031	Hypoplastic amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) (loss of function) in	acid phosphatase 4	14376	ACPT	93650
 100033	Hypomaturation amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) in	amelogenin, X-linked	461	AMELX	265
 100033	Hypomaturation amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) in	kallikrein related peptidase 4	6365	KLK4	9622
 100033	Hypomaturation amelogenesis imperfecta	Assessed	Disease-causing germline mutation(s) in	matrix metallopeptidase 20	7167	MMP20	9313
@@ -6726,7 +6817,6 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 99950	Charcot-Marie-Tooth disease type 4D	Assessed	Disease-causing germline mutation(s) in	N-myc downstream regulated 1	7679	NDRG1	10397
 99949	Charcot-Marie-Tooth disease type 4C	Assessed	Disease-causing germline mutation(s) in	SH3 domain and tetratricopeptide repeats 2	29427	SH3TC2	79628
 99954	Charcot-Marie-Tooth disease type 4H	Assessed	Disease-causing germline mutation(s) (loss of function) in	FYVE, RhoGEF and PH domain containing 4	19125	FGD4	121512
-99946	Autosomal dominant Charcot-Marie-Tooth disease type 2A1	Assessed	Disease-causing germline mutation(s) (loss of function) in	kinesin family member 1B	16636	KIF1B	23095
 99936	Autosomal dominant Charcot-Marie-Tooth disease type 2B	Assessed	Disease-causing germline mutation(s) in	RAB7A, member RAS oncogene family	9788	RAB7A	7879
 99901	Acyl-CoA dehydrogenase 9 deficiency	Assessed	Disease-causing germline mutation(s) in	acyl-CoA dehydrogenase family member 9	21497	ACAD9	28976
 99900	Long chain acyl-CoA dehydrogenase deficiency	Assessed	Disease-causing germline mutation(s) in	acyl-CoA dehydrogenase, long chain	88	ACADL	33
@@ -6765,3 +6855,4 @@ dise_orpha_id	dise_name	link_status	link_type	gene_name	hgnc_id	symbol	entrez_id
 99807	PEHO-like syndrome	Assessed	Disease-causing germline mutation(s) (loss of function) in	coiled-coil domain containing 88A	25523	CCDC88A	55704
 99810	Familial porencephaly	Assessed	Disease-causing germline mutation(s) in	collagen type IV alpha 2 chain	2203	COL4A2	1284
 99789	Dentin dysplasia type I	Assessed	Disease-causing germline mutation(s) (loss of function) in	vacuolar protein sorting 4 homolog B	10895	VPS4B	9525
+99789	Dentin dysplasia type I	Assessed	Disease-causing germline mutation(s) in	ssu-2 homolog (C. elegans)	24809	SSUH2	51066
